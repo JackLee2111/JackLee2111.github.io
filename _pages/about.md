@@ -16,13 +16,12 @@ Publications
 ======
 2025
 ------
-incoming...
++ incoming...
 
 Awards
 ======
-+ 1
-+ 2
-+ 3
++ 2024 CCF Outstanding Undergraduate Award
++ 2022, 2023, 2024 National Scholarship, Ministry of Education of China
 
 
 
