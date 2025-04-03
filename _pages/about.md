@@ -19,7 +19,7 @@ Publications
 
 Awards
 ======
-+ 2024 CCF Outstanding Undergraduate Award
++ 2024 CCF Outstanding Undergraduate Award, China Computer Federation (CCF)
 + 2022, 2023, 2024 National Scholarship, Ministry of Education of China
 
 
