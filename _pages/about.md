@@ -14,8 +14,7 @@ My research interests includes databases, data management and AI4DB.
 
 Publications
 ======
-2025
-------
+## 2025
 + incoming...
 
 Awards
