@@ -12,13 +12,11 @@ Welcome to my webpage!  I'm currently a first year Ph.D student from [ School 
 My research interests includes databases, data management and AI4DB.
 
 
-Publications
-======
+# Publications
 ## 2025
 + incoming...
 
-Awards
-======
+# Awards
 + 2024 CCF Outstanding Undergraduate Award, China Computer Federation (CCF)
 + 2022, 2023, 2024 National Scholarship, Ministry of Education of China
 
