@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my webpage!  I'm currently a Ph.D student from the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my Bachelor degree from the School of Infomation, Renmin University of China in 2025.
 
-My research interests include databases, data management and AI4DB.
+My research interests include **Database, data management and AI4DB**.
 
 ---
 
