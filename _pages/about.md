@@ -15,6 +15,7 @@ My research interests include **Database, data management and AI4DB**.
 
 Publications
 ======
+
 <li><b>POQD: Performance-Oriented Query Decomposer for Multi-vector retrieval</b><br/>
 Yaoyang Liu, <b>Junlin Li</b>, Yinjun Wu, Zhen Chen<br/>
 ICML 2025</li>
@@ -23,8 +24,11 @@ ICML 2025</li>
 
 Awards
 ======
-<li> 2024 **CCF Outstanding Undergraduate Award**, China Computer Federation (CCF) </li>
-<li> 2022, 2023, 2024 **National Scholarship**, Ministry of Education of China </li>
+
+<li> 2024 <b>CCF Outstanding Undergraduate Award</b>, China Computer Federation (CCF) </li>
+
+<li> 2022, 2023, 2024 <b>National Scholarship</b>, Ministry of Education of China </li>
+
 
 
 
