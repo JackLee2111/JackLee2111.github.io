@@ -23,8 +23,8 @@ ICML 2025</li>
 
 Awards
 ======
-+ 2024 **CCF Outstanding Undergraduate Award**, China Computer Federation (CCF)
-+ 2022, 2023, 2024 **National Scholarship**, Ministry of Education of China
+<li> 2024 **CCF Outstanding Undergraduate Award**, China Computer Federation (CCF) </li>
+<li> 2022, 2023, 2024 **National Scholarship**, Ministry of Education of China </li>
 
 
 
