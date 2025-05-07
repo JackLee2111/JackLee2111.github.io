@@ -15,7 +15,9 @@ My research interests include **Database, data management and AI4DB**.
 
 Publications
 ======
-+ incoming...
+<li><b>POQD: Performance-Oriented Query Decomposer for Multi-vector retrieval</b><br/>
+Yaoyang Liu, <b>Junlin Li</b>, Yinjun Wu, Zhen Chen<br/>
+ICML 2025</li>
 
 ---
 
