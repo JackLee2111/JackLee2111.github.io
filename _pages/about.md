@@ -29,6 +29,6 @@ Awards
 
 <li> <b>National Scholarship</b>, Ministry of Education of China, 2022, 2023, 2024</li>
 
-<li> <b>Wu Yuzhang Scholarship</b>(the highest honor for RUC students, 10 per year among all students), Renmin Univ. of China, 2025 </li>
+<li> <b>Wu Yuzhang Scholarship</b> (the highest honor for RUC students, 10 per year among all students), Renmin Univ. of China, 2025 </li>
 
 
