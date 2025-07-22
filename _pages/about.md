@@ -18,7 +18,7 @@ Publications
 
 <li><b>POQD: Performance-Oriented Query Decomposer for Multi-vector retrieval</b><br/>
 Yaoyang Liu, <b>Junlin Li</b>, Yinjun Wu, Zhen Chen<br/>
-ICML 2025, [Paper](https://arxiv.org/abs/2505.19189), [Code](https://github.com/PKU-SDS-lab/POQD-ICML25), [Intro](https://pku-sds-lab.github.io/POQD/)</li>
+ICML 2025 [<a href="https://github.com/PKU-SDS-lab/POQD-ICML2">Code</a>][<a href="[https://arxiv.org/pdf/2302.04418.pdf](https://arxiv.org/abs/2505.19189)">Paper</a>][<a href="https://pku-sds-lab.github.io/POQD/">Intro</a>]</li>
 
 ---
 
