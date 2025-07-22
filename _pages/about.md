@@ -25,10 +25,10 @@ ICML 2025</li>
 Awards
 ======
 
-<li> 2024 <b>CCF Outstanding Undergraduate Award</b>, China Computer Federation (CCF) </li>
+<li> <b>CCF Outstanding Undergraduate Award</b>, China Computer Federation (CCF), 2024 </li>
 
-<li> 2022, 2023, 2024 <b>National Scholarship</b>, Ministry of Education of China </li>
+<li> <b>National Scholarship</b>, Ministry of Education of China, 2022, 2023, 2024</li>
 
-
+<li> <b>Wu Yuzhang Scholarship (the highest honor for RUC students, 10 per year among all students )</b>, Renmin Univ. of China, 2025 </li>
 
 
