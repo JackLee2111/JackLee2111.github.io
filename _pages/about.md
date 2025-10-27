@@ -16,21 +16,21 @@ My research interests include **Vector Database, Data Management and AI4DB**.
 Publications
 ======
 
-<li><b>POQD: Performance-Oriented Query Decomposer for Multi-vector retrieval</b><br/>
-Yaoyang Liu, <b>Junlin Li</b>, Yinjun Wu, Zhen Chen<br/>
-<i>ICML 2025</i><br> [<a href="https://github.com/PKU-SDS-lab/POQD-ICML25">Code</a>][<a href="https://arxiv.org/abs/2505.19189">Paper</a>][<a href="https://pku-sds-lab.github.io/POQD/">Intro</a>]</li>
+* <b>POQD: Performance-Oriented Query Decomposer for Multi-vector retrieval</b><br/>
+    Yaoyang Liu, <b>Junlin Li</b>, Yinjun Wu, Zhen Chen<br/>
+    <i>ICML 2025</i><br> [<a href="https://github.com/PKU-SDS-lab/POQD-ICML25">Code</a>][<a href="https://arxiv.org/abs/2505.19189">Paper</a>][<a href="https://pku-sds-lab.github.io/POQD/">Intro</a>]
 
-<li><b>L4G: Two-hop Label Management for Group Steiner Tree Search on Graphs</b><br/>
-Xiaoyao Feng, Yahui Sun, Zhuoran Wang, <b>Junlin Li</b>, Sijia Luo, Rong-Hua Li<br/>
-<i>IEEE International Conference on Data Engineering (ICDE) 2026</i><br> </li>
+* <b>L4G: Two-hop Label Management for Group Steiner Tree Search on Graphs</b><br/>
+    Xiaoyao Feng, Yahui Sun, Zhuoran Wang, <b>Junlin Li</b>, Sijia Luo, Rong-Hua Li<br/>
+    <i>IEEE International Conference on Data Engineering (ICDE) 2026</i>
 
 ---
 
 Awards
 ======
 
-<li> <b>CCF Outstanding Undergraduate Award</b>, China Computer Federation (CCF), 2024 </li>
+* <b>CCF Outstanding Undergraduate Award</b>, China Computer Federation (CCF), 2024
 
-<li> <b>Wu Yuzhang Scholarship</b> (the highest honor for RUC students, 10 per year among all students), Renmin Univ. of China, 2025 </li>
+* <b>Wu Yuzhang Scholarship</b> (the highest honor for RUC students, 10 per year among all students), Renmin Univ. of China, 2025
 
-<li> <b>National Scholarship</b>, Ministry of Education of China, 2022, 2023, 2024</li>
+* <b>National Scholarship</b>, Ministry of Education of China, 2022, 2023, 2024
