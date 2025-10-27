@@ -20,7 +20,7 @@ Publications
 Yaoyang Liu, <b>Junlin Li</b>, Yinjun Wu, Zhen Chen<br/>
 ICML 2025 [<a href="https://github.com/PKU-SDS-lab/POQD-ICML25">Code</a>][<a href="https://arxiv.org/abs/2505.19189">Paper</a>][<a href="https://pku-sds-lab.github.io/POQD/">Intro</a>]</li>
 
-<li><b>L4G: Two-hop Label Management for Group Steiner Tree Search on Graphs.</b><br/>
+<li><b>L4G: Two-hop Label Management for Group Steiner Tree Search on Graphs</b><br/>
 Xiaoyao Feng, Yahui Sun, Zhuoran Wang, <b>Junlin Li</b>, Sijia Luo, Rong-Hua Li<br/>
 IEEE International Conference on Data Engineering (ICDE) 2026 </li>
 
