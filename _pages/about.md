@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage!  I'm currently a Ph.D student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my bachelor's degree from the School of Information, Renmin University of China in 2025.
+I'm currently a first-year Ph.D student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my bachelor's degree from the School of Information, Renmin University of China in 2025.
 
 My research interests include **Vector Database, Data Management and AI4DB**.
 
