@@ -8,7 +8,6 @@ author_profile: true
   <section class="showcase-hero showcase-hero--photography">
     <div class="showcase-hero__icon"><i class="fas fa-camera-retro" aria-hidden="true"></i></div>
     <div>
-      <p class="showcase-motto" lang="zh-CN">“留住 温度 速度 温柔和愤怒”</p>
       <div class="showcase-eyebrow">LIGHT · PLACE · EVERYDAY MOMENTS</div>
       <p class="showcase-lead">Photographs shaped by light and shadow, atmosphere, and the quiet pulse of real life.</p>
       <p>My work spans night skies and natural landscapes, wildlife, candid street and campus scenes, and portraiture—from Japanese-inspired, natural portraits to wide environmental compositions. I am drawn to light and shadow, natural color, and unposed moments, preserving real fragments with a lyrical sense of place.</p>
@@ -20,6 +19,7 @@ author_profile: true
     <div>
       <span class="showcase-callout__label">FEATURED PHOTO ESSAY · 2024</span>
       <strong>2024: Ten Frames of the Year</strong>
+      <span class="showcase-callout__motto" lang="zh-CN">“留住 温度 速度 温柔和愤怒”</span>
     </div>
     <a class="showcase-button" href="https://mp.weixin.qq.com/s/2iIgEdmNWNPvIO9paQ7Upg" target="_blank" rel="noopener noreferrer">View on WeChat <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
   </div>

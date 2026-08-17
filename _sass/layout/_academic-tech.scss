@@ -796,17 +796,6 @@ html[data-theme="dark"] {
   line-height: 1.7;
 }
 
-.showcase-hero .showcase-motto {
-  margin: 0 0 0.45rem;
-  color: var(--tech-ink);
-  font-family: "Songti SC", "STSong", Georgia, serif;
-  font-size: 1.02rem;
-  font-style: italic;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  line-height: 1.5;
-}
-
 .showcase-eyebrow {
   position: relative;
   color: var(--tech-blue);
@@ -893,6 +882,18 @@ html[data-theme="dark"] {
   font-size: 0.62rem;
   font-weight: 760;
   letter-spacing: 0.13em;
+}
+
+.showcase-callout .showcase-callout__motto {
+  display: block;
+  margin-top: 0.34rem;
+  color: var(--tech-muted);
+  font-family: "Songti SC", "STSong", Georgia, serif;
+  font-size: 0.82rem;
+  font-style: italic;
+  font-weight: 650;
+  letter-spacing: 0.06em;
+  line-height: 1.5;
 }
 
 .showcase-button {
