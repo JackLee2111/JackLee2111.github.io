@@ -42,6 +42,6 @@ author_profile: true
 
   <div class="showcase-note">
     <i class="fas fa-user-group" aria-hidden="true"></i>
-    <p><span lang="zh-CN">欢迎和我一起扫街拍照、外出观星。</span> Feel free to join me for a photo walk or a night under the stars.</p>
+    <p><span lang="zh-CN">欢迎和我一起扫街拍照，或相约去户外仰望星空。</span> Join me for a photo walk through the city—or a night out beneath the stars.</p>
   </div>
 </div>
