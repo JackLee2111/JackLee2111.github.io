@@ -175,6 +175,11 @@ html[data-theme="dark"] .theme-toggle {
   }
 }
 
+.page__title--compact {
+  font-size: clamp(1.6rem, 2.05vw, 1.78rem);
+  letter-spacing: -0.035em;
+}
+
 .page--home .page__title {
   margin-bottom: 1.15rem;
   font-size: clamp(1.38rem, 1.7vw, 1.5rem);
@@ -1548,6 +1553,10 @@ html[data-theme="dark"] .page__footer {
 
   .page__title {
     font-size: 1.78rem;
+  }
+
+  .page__title--compact {
+    font-size: 1.46rem;
   }
 
   .home-intro {

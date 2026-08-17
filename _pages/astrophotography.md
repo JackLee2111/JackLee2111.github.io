@@ -2,6 +2,7 @@
 permalink: /astrophotography/
 title: "Astrophotography · 夜观天象"
 author_profile: true
+compact_title: true
 ---
 
 <div class="showcase-page">
