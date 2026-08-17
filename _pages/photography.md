@@ -156,6 +156,7 @@ author_profile: true
         <span class="showcase-eyebrow">2017.10</span>
         <h3>中国 · 广东 · 惠州</h3>
         <p>Huizhou · Guangdong · China</p>
+        <p class="showcase-work__note" lang="zh-CN">我还是个孩子，第一次仰望壮丽星河。 · <span lang="en">I was still a child when I first gazed upon the magnificent Milky Way.</span></p>
       </figcaption>
     </figure>
 
