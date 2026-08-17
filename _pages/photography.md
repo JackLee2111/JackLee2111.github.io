@@ -61,9 +61,12 @@ author_profile: true
       </figcaption>
     </figure>
 
-    <figure class="showcase-work showcase-work--portrait">
+    <figure class="showcase-work showcase-work--portrait showcase-work--duo">
       <a href="/images/photography/2019-08-keszthely-night-sky.jpg" class="image-popup">
         <img src="/images/photography/2019-08-keszthely-night-sky.jpg" alt="Milky Way above Keszthely, Hungary" loading="lazy" decoding="async">
+      </a>
+      <a href="/images/photography/2019-08-keszthely-night-lights.jpg" class="image-popup">
+        <img src="/images/photography/2019-08-keszthely-night-lights.jpg" alt="Night sky and red light trails in Keszthely, Hungary" loading="lazy" decoding="async">
       </a>
       <figcaption>
         <span class="showcase-eyebrow">2019.08</span>
