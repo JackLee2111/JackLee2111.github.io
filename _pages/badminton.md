@@ -19,7 +19,11 @@ author_profile: true
   <div class="showcase-info-grid">
     <div class="showcase-info-card">
       <i class="fas fa-location-dot" aria-hidden="true"></i>
-      <div><strong>Where</strong><span>Peking University · Beijing</span></div>
+      <div>
+        <strong>Where</strong>
+        <span>Peking University · Beijing</span>
+        <span>Not limited to PKU—happy to play at courts across Beijing.</span>
+      </div>
     </div>
     <div class="showcase-info-card">
       <i class="fas fa-people-group" aria-hidden="true"></i>
