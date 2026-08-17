@@ -79,9 +79,12 @@ author_profile: true
       </figcaption>
     </figure>
 
-    <figure class="showcase-work showcase-work--portrait">
+    <figure class="showcase-work showcase-work--portrait showcase-work--duo">
       <a href="/images/photography/2024-10-baiwang-mountain-tsuchinshan-atlas.jpg" class="image-popup">
         <img src="/images/photography/2024-10-baiwang-mountain-tsuchinshan-atlas.jpg" alt="Comet C/2023 A3 (Tsuchinshan-ATLAS) above Baiwang Mountain in Beijing, China" loading="lazy" decoding="async">
+      </a>
+      <a href="/images/photography/2024-10-baiwang-mountain-tsuchinshan-atlas-observers.jpg" class="image-popup">
+        <img src="/images/photography/2024-10-baiwang-mountain-tsuchinshan-atlas-observers.jpg" alt="Two observers watching Comet C/2023 A3 (Tsuchinshan-ATLAS) above Baiwang Mountain in Beijing, China" loading="lazy" decoding="async">
       </a>
       <figcaption>
         <span class="showcase-eyebrow">2024.10</span>
