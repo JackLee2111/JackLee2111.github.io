@@ -62,6 +62,18 @@ author_profile: true
     </figure>
 
     <figure class="showcase-work showcase-work--portrait">
+      <a href="/images/photography/2024-12-zhangjiakou-geminids.jpg" class="image-popup">
+        <img src="/images/photography/2024-12-zhangjiakou-geminids.jpg" alt="A Geminid meteor above Zhangjiakou, Hebei, China" loading="lazy" decoding="async">
+      </a>
+      <figcaption>
+        <span class="showcase-eyebrow">2024.12</span>
+        <h3>中国 · 河北 · 张家口</h3>
+        <p>Zhangjiakou · Hebei · China</p>
+        <p class="showcase-work__note" lang="zh-CN">双子座流星雨 · The Geminid Meteor Shower</p>
+      </figcaption>
+    </figure>
+
+    <figure class="showcase-work showcase-work--portrait">
       <a href="/images/photography/2024-10-baiwang-mountain-tsuchinshan-atlas.jpg" class="image-popup">
         <img src="/images/photography/2024-10-baiwang-mountain-tsuchinshan-atlas.jpg" alt="Comet C/2023 A3 (Tsuchinshan-ATLAS) above Baiwang Mountain in Beijing, China" loading="lazy" decoding="async">
       </a>
@@ -70,6 +82,21 @@ author_profile: true
         <h3>中国 · 北京 · 百望山</h3>
         <p>Baiwang Mountain · Beijing · China</p>
         <p class="showcase-work__note" lang="zh-CN">☄ 紫金山-阿特拉斯彗星 · C/2023 A3 (Tsuchinshan-ATLAS)</p>
+      </figcaption>
+    </figure>
+
+    <figure class="showcase-work showcase-work--portrait showcase-work--duo">
+      <a href="/images/photography/2024-08-aksai-summer-triangle-milky-way-1.jpg" class="image-popup">
+        <img src="/images/photography/2024-08-aksai-summer-triangle-milky-way-1.jpg" alt="Summer Triangle and Milky Way above Aksai Kazak Autonomous County, Qinghai, China" loading="lazy" decoding="async">
+      </a>
+      <a href="/images/photography/2024-08-aksai-summer-triangle-milky-way-2.jpg" class="image-popup">
+        <img src="/images/photography/2024-08-aksai-summer-triangle-milky-way-2.jpg" alt="Milky Way above Aksai Kazak Autonomous County, Qinghai, China" loading="lazy" decoding="async">
+      </a>
+      <figcaption>
+        <span class="showcase-eyebrow">2024.08</span>
+        <h3>中国 · 青海 · 阿克塞哈萨克族自治县</h3>
+        <p>Aksai Kazak Autonomous County · Qinghai · China</p>
+        <p class="showcase-work__note" lang="zh-CN">夏季大三角与银河 · The Summer Triangle and the Milky Way</p>
       </figcaption>
     </figure>
 
