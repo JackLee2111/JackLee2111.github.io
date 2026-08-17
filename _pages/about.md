@@ -105,9 +105,9 @@ My research lies at the intersection of data systems and artificial intelligence
     <div><strong>Badminton</strong><span>Playing, competing, and staying active.</span></div>
     <span class="interest-card__arrow"><i class="fas fa-arrow-right" aria-hidden="true"></i></span>
   </a>
-  <a class="interest-card" href="/art-writing/" aria-label="Explore my art and writing page">
+  <a class="interest-card" href="/art-writing/" aria-label="Explore my art, writing, and reading page">
     <span class="interest-card__icon"><i class="fas fa-pen-nib" aria-hidden="true"></i></span>
-    <div><strong>Art & Writing</strong><span>Sketching, painting, fiction, and essays.</span></div>
+    <div><strong>Art, Writing & Reading</strong><span>Sketching, fiction, essays, and books.</span></div>
     <span class="interest-card__arrow"><i class="fas fa-arrow-right" aria-hidden="true"></i></span>
   </a>
   <a class="interest-card" href="/photography/" aria-label="Explore my photography page">

@@ -812,6 +812,10 @@ html[data-theme="dark"] {
   gap: 0.78rem;
 }
 
+.creative-collection-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
 .showcase-info-card {
   display: flex;
   align-items: flex-start;
