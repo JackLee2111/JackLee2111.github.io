@@ -38,8 +38,8 @@ author_profile: true
       <div class="creative-collection-card__mark"><i class="fas fa-book-open" aria-hidden="true"></i></div>
       <span class="showcase-eyebrow">BOOKS · IDEAS</span>
       <h3>Reading</h3>
-      <p>Science fiction, mystery, and Chinese classics, including the <em>I Ching</em>.</p>
-      <p class="creative-collection-card__zh" lang="zh-CN">科幻、悬疑与《易经》等中国传统文化。</p>
+      <p>I enjoy science fiction and mystery, as well as Chinese classical texts, especially the <em>Zhouyi</em> (<em>Book of Changes</em>).</p>
+      <p class="creative-collection-card__zh" lang="zh-CN">科幻与悬疑小说，以及中国古典典籍，尤其是《周易》（《易经》）。</p>
       <span class="collection-status">To appear · 敬请期待</span>
     </article>
   </div>
