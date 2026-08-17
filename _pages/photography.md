@@ -10,8 +10,28 @@ author_profile: true
     <div>
       <div class="showcase-eyebrow">LIGHT · PLACE · EVERYDAY MOMENTS</div>
       <p class="showcase-lead">I photograph light, atmosphere, and the small moments that stay with me.</p>
-      <p>My subjects include night skies and landscapes, wildlife, everyday life on streets and campuses, and portraits. For portraits, I like both soft, Japanese-inspired frames and wider compositions that place people in their surroundings. I look for natural color, strong light and shadow, and moments that do not feel staged. I want each photograph to keep some of the feeling of being there.</p>
-      <p class="showcase-summary-zh" lang="zh-CN">我拍摄夜空与自然景观、野生动物、街头与校园日常，也拍人像。人像既有日系、自然的细腻画面，也有将人物置于环境中的大景构图。我偏爱自然色彩、鲜明的光影和不刻意摆拍的瞬间，希望每张照片都能留住一点身处现场的感受。</p>
+      <div class="photography-subject-grid" aria-label="Photography subjects">
+        <div class="photography-subject-card">
+          <strong>Nature & Night Sky</strong>
+          <span lang="zh-CN">自然与夜空</span>
+          <p>Landscapes, wildlife, the Milky Way, and celestial events.</p>
+          <p lang="zh-CN">自然景观、野生动物、银河与天象。</p>
+        </div>
+        <div class="photography-subject-card">
+          <strong>Portraits</strong>
+          <span lang="zh-CN">人像</span>
+          <p>Natural, Japanese-inspired portraits and wider frames that place people in their surroundings.</p>
+          <p lang="zh-CN">自然、日系的人像，以及人与环境相融的大景构图。</p>
+        </div>
+        <div class="photography-subject-card">
+          <strong>Street & Campus</strong>
+          <span lang="zh-CN">街头与校园</span>
+          <p>Unposed moments from streets, campuses, and ordinary days.</p>
+          <p lang="zh-CN">街头、校园与日常生活中的真实瞬间。</p>
+        </div>
+      </div>
+      <p class="photography-approach">Whatever the subject, I look for natural color, strong light and shadow, and moments that do not feel staged. I want each photograph to hold some of the feeling of being there.</p>
+      <p class="showcase-summary-zh" lang="zh-CN">无论题材，我都偏爱自然色彩、鲜明的光影和不刻意摆拍的瞬间，希望照片能留住一点身处现场的感受。</p>
     </div>
   </section>
 

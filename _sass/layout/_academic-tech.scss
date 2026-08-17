@@ -796,6 +796,57 @@ html[data-theme="dark"] {
   line-height: 1.7;
 }
 
+.photography-subject-grid {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.55rem;
+  margin-top: 0.82rem;
+  z-index: 1;
+}
+
+.photography-subject-card {
+  min-width: 0;
+  padding: 0.72rem 0.75rem;
+  border: 1px solid var(--tech-border);
+  border-radius: 11px;
+  background: rgba(255, 255, 255, 0.55);
+
+  strong,
+  > span {
+    display: block;
+  }
+
+  strong {
+    color: var(--tech-ink);
+    font-size: 0.78rem;
+    line-height: 1.35;
+  }
+
+  > span {
+    margin-top: 0.08rem;
+    color: var(--tech-blue);
+    font-size: 0.66rem;
+    font-weight: 620;
+  }
+}
+
+.showcase-hero .photography-subject-card p {
+  margin-top: 0.3rem;
+  font-size: 0.72rem;
+  line-height: 1.5;
+
+  &[lang="zh-CN"] {
+    margin-top: 0.18rem;
+    color: var(--tech-muted);
+    font-size: 0.66rem;
+  }
+}
+
+.showcase-hero .photography-approach {
+  margin-top: 0.72rem;
+}
+
 .showcase-eyebrow {
   position: relative;
   color: var(--tech-blue);
@@ -1321,6 +1372,10 @@ html[data-theme="dark"] {
     background: linear-gradient(135deg, rgba(32, 45, 59, 0.95), rgba(27, 42, 56, 0.84));
   }
 
+  .photography-subject-card {
+    background: rgba(24, 38, 51, 0.55);
+  }
+
   .showcase-callout {
     background: linear-gradient(120deg, rgba(39, 75, 92, 0.46), rgba(30, 49, 66, 0.68));
   }
@@ -1560,6 +1615,10 @@ html[data-theme="dark"] .page__footer {
   .showcase-info-grid,
   .creative-collection-grid,
   .showcase-category-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .photography-subject-grid {
     grid-template-columns: 1fr;
   }
 
