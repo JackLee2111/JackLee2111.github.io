@@ -78,8 +78,8 @@ My research lies at the intersection of data systems and artificial intelligence
         <strong>CCF Outstanding Undergraduate Award</strong>
         <time>2024.10</time>
       </div>
-      <p>China Computer Federation (CCF)</p>
-      <span class="award__zh" lang="zh-CN">CCF 优秀大学生</span>
+      <p>100 recipients nationwide · China Computer Federation (CCF)</p>
+      <span class="award__zh" lang="zh-CN">CCF 优秀大学生（全国 100 人）</span>
     </div>
   </article>
   <article class="award-card">
