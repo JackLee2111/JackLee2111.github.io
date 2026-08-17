@@ -9,16 +9,14 @@ redirect_from:
 
 <div class="home-intro" markdown="1">
 
-<div class="home-eyebrow">DATA4AI · AI4SYS · INTELLIGENT DATA SYSTEMS</div>
-
 I'm currently a Ph.D. student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my bachelor's degree from the [School of Information](http://info.ruc.edu.cn/index.htm), [Renmin University of China](https://en.ruc.edu.cn/) in 2025.
 
-My research lies at the intersection of data systems and artificial intelligence, spanning both **Data for AI (Data4AI)** and **AI for Systems (AI4Sys)**. I am particularly interested in using AI to optimize data systems, with a focus on **vector databases and retrieval**, **semantic query**, **representation learning**, and **agent memory**. My goal is to build efficient, adaptive, and reliable data infrastructure for intelligent applications.
+My research lies at the intersection of data systems and artificial intelligence, spanning both **Data for AI (Data4AI)** and **AI for Systems (AI4Sys)**. I am particularly interested in **vector databases and retrieval**, **semantic query**, **representation learning in latent spaces**, and **agent memory**, with the goal of building efficient, adaptive, and reliable data infrastructure for intelligent applications.
 
 <div class="research-focus" aria-label="Research focus">
   <span><i class="fas fa-database" aria-hidden="true"></i> Vector Databases & Retrieval</span>
   <span><i class="fas fa-magnifying-glass" aria-hidden="true"></i> Semantic Query</span>
-  <span><i class="fas fa-layer-group" aria-hidden="true"></i> Representation Learning / 隐空间学习</span>
+  <span><i class="fas fa-layer-group" aria-hidden="true"></i> Representation Learning / Latent-Space Learning</span>
   <span><i class="fas fa-brain" aria-hidden="true"></i> Agent Memory</span>
 </div>
 
@@ -67,7 +65,7 @@ My research lies at the intersection of data systems and artificial intelligence
     <div class="award-card__body">
       <div class="award-card__header">
         <strong>Wu Yuzhang Scholarship</strong>
-        <time>2025</time>
+        <time>2025.06</time>
       </div>
       <p>The highest honor for RUC students (10 recipients per year) · Renmin University of China</p>
       <span class="award__zh" lang="zh-CN">吴玉章奖学金（中国人民大学最高学生荣誉）</span>
@@ -78,7 +76,7 @@ My research lies at the intersection of data systems and artificial intelligence
     <div class="award-card__body">
       <div class="award-card__header">
         <strong>CCF Outstanding Undergraduate Award</strong>
-        <time>2024</time>
+        <time>2024.10</time>
       </div>
       <p>China Computer Federation (CCF)</p>
       <span class="award__zh" lang="zh-CN">CCF 优秀大学生</span>
