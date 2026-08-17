@@ -32,7 +32,7 @@ author_profile: true
         <img src="/images/photography/2026-08-xilingol-milky-way.jpg" alt="Milky Way and a meteor above Xilingol League, Inner Mongolia, China">
       </a>
       <figcaption>
-        <span class="showcase-eyebrow">2026.08 · ASTROPHOTOGRAPHY</span>
+        <span class="showcase-eyebrow">2026.08</span>
         <h3>中国 · 内蒙古 · 锡林郭勒盟</h3>
         <p>China · Inner Mongolia · Xilingol League</p>
         <p class="showcase-work__note" lang="zh-CN">英仙座流星雨 · The Perseids Meteor Shower</p>
