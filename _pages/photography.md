@@ -26,6 +26,11 @@ author_profile: true
 
   <h2>Astrophotography · 天空摄影</h2>
 
+  <blockquote class="showcase-epigraph">
+    <p lang="zh-CN">循此苦旅，以达繁星。</p>
+    <cite lang="la">Per aspera ad astra.</cite>
+  </blockquote>
+
   <div class="showcase-gallery">
     <figure class="showcase-work showcase-work--featured showcase-work--portrait">
       <a href="/images/photography/2026-08-xilingol-milky-way.jpg" class="image-popup">
@@ -85,12 +90,9 @@ author_profile: true
       </figcaption>
     </figure>
 
-    <figure class="showcase-work showcase-work--portrait showcase-work--duo">
-      <a href="/images/photography/2024-08-aksai-summer-triangle-milky-way-1.jpg" class="image-popup">
-        <img src="/images/photography/2024-08-aksai-summer-triangle-milky-way-1.jpg" alt="Summer Triangle and Milky Way above Aksai Kazak Autonomous County, Qinghai, China" loading="lazy" decoding="async">
-      </a>
+    <figure class="showcase-work showcase-work--portrait">
       <a href="/images/photography/2024-08-aksai-summer-triangle-milky-way-2.jpg" class="image-popup">
-        <img src="/images/photography/2024-08-aksai-summer-triangle-milky-way-2.jpg" alt="Milky Way above Aksai Kazak Autonomous County, Qinghai, China" loading="lazy" decoding="async">
+        <img src="/images/photography/2024-08-aksai-summer-triangle-milky-way-2.jpg" alt="Summer Triangle and Milky Way above Aksai Kazak Autonomous County, Qinghai, China" loading="lazy" decoding="async">
       </a>
       <figcaption>
         <span class="showcase-eyebrow">2024.08</span>
