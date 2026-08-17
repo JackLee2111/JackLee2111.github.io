@@ -1266,10 +1266,19 @@ html[data-theme="dark"] {
     }
 
     .showcase-work__note {
-      margin-top: 0.3rem;
+      display: block;
+      width: fit-content;
+      max-width: 100%;
+      margin-top: 0.48rem;
+      padding: 0.32rem 0.58rem 0.34rem 0.64rem;
+      border-left: 2px solid rgba(31, 129, 166, 0.48);
       color: var(--tech-muted);
+      background: linear-gradient(90deg, rgba(37, 139, 177, 0.075), transparent);
+      font-family: "Songti SC", "STSong", Georgia, serif;
       font-size: 0.75rem;
-      font-weight: 580;
+      font-style: italic;
+      font-weight: 520;
+      line-height: 1.55;
     }
   }
 }
@@ -1340,6 +1349,7 @@ html[data-theme="dark"] {
 
     .showcase-work__note {
       font-size: 0.72rem;
+      padding: 0.3rem 0.5rem 0.32rem 0.56rem;
     }
   }
 
