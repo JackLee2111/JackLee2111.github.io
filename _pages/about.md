@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="home-eyebrow">DATA4AI · AI4SYS · INTELLIGENT DATA SYSTEMS</div>
 
-I'm currently a first-year Ph.D. student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my bachelor's degree from the School of Information, Renmin University of China in 2025.
+I'm currently a Ph.D. student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my bachelor's degree from the School of Information, Renmin University of China in 2025.
 
 My research lies at the intersection of data systems and artificial intelligence, spanning both **Data for AI (Data4AI)** and **AI for Systems (AI4Sys)**. I am particularly interested in using AI to optimize data systems, with a focus on **vector databases and retrieval**, **semantic querying**, **adaptive representation learning**, and **agent memory**. My goal is to build efficient, adaptive, and reliable data infrastructure for intelligent applications.
 
@@ -57,11 +57,11 @@ My research lies at the intersection of data systems and artificial intelligence
 
 ## Awards
 
-* <b>CCF Outstanding Undergraduate Award</b>, China Computer Federation (CCF), 2024
+* <b>CCF Outstanding Undergraduate Award</b>, China Computer Federation (CCF), 2024 <span class="award__zh" lang="zh-CN">CCF 优秀大学生</span>
 
-* <b>Wu Yuzhang Scholarship</b> (the highest honor for RUC students, 10 per year among all students), Renmin Univ. of China, 2025
+* <b>Wu Yuzhang Scholarship</b> (the highest honor for RUC students, 10 per year among all students), Renmin Univ. of China, 2025 <span class="award__zh" lang="zh-CN">吴玉章奖学金（中国人民大学最高学生荣誉）</span>
 
-* <b>National Scholarship</b>, Ministry of Education of China, 2022, 2023, 2024
+* <b>National Scholarship</b>, Ministry of Education of China, 2022, 2023, 2024 <span class="award__zh" lang="zh-CN">国家奖学金</span>
 
 ## Miscellaneous
 

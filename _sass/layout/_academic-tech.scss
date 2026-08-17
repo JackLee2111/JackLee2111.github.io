@@ -175,6 +175,18 @@ html[data-theme="dark"] .theme-toggle {
   }
 }
 
+.page--home .page__title {
+  margin-bottom: 1.15rem;
+  font-size: clamp(1.38rem, 1.7vw, 1.5rem);
+  letter-spacing: -0.035em;
+
+  &::after {
+    width: 2.3rem;
+    height: 3px;
+    margin-top: 0.58rem;
+  }
+}
+
 .page__content {
   color: var(--tech-ink);
   font-size: 0.98rem;
@@ -572,6 +584,17 @@ html[data-theme="dark"] {
       line-height: 1.5;
     }
   }
+}
+
+.award__zh {
+  display: block;
+  margin-top: 0.24rem;
+  color: var(--tech-muted);
+  font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  font-size: 0.72rem;
+  font-weight: 520;
+  letter-spacing: 0.01em;
+  line-height: 1.45;
 }
 
 .interest-grid {
