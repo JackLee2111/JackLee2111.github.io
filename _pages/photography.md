@@ -15,16 +15,16 @@ author_profile: true
     </div>
   </section>
 
-  <div class="showcase-callout">
+  <h2>Collections</h2>
+
+  <a class="showcase-callout showcase-collection-link" href="https://mp.weixin.qq.com/s/2iIgEdmNWNPvIO9paQ7Upg" target="_blank" rel="noopener noreferrer" aria-label="View 2024: Ten Frames of the Year on WeChat">
     <div>
       <span class="showcase-callout__label">FEATURED PHOTO ESSAY · 2024</span>
       <strong>2024: Ten Frames of the Year</strong>
       <span class="showcase-callout__motto" lang="zh-CN">“留住 温度 速度 温柔和愤怒”</span>
     </div>
-    <a class="showcase-button" href="https://mp.weixin.qq.com/s/2iIgEdmNWNPvIO9paQ7Upg" target="_blank" rel="noopener noreferrer">View <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
-  </div>
-
-  <h2>Collections</h2>
+    <span class="showcase-button">View <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></span>
+  </a>
 
   <div class="showcase-category-grid">
     <a class="showcase-category-card" href="/astrophotography/" aria-label="Explore Astrophotography · 夜观天象">
