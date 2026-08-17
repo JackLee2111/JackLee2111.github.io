@@ -1076,6 +1076,10 @@ html[data-theme="dark"] {
   }
 }
 
+.showcase-work--compact > a img {
+  width: min(76%, 680px);
+}
+
 .showcase-work--duo {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1092,6 +1096,10 @@ html[data-theme="dark"] {
 }
 
 @include breakpoint(max-width $medium) {
+  .showcase-work--compact > a img {
+    width: 88%;
+  }
+
   .showcase-work--duo {
     grid-template-columns: 1fr;
   }

@@ -61,7 +61,7 @@ author_profile: true
       </figcaption>
     </figure>
 
-    <figure class="showcase-work showcase-work--portrait">
+    <figure class="showcase-work showcase-work--portrait showcase-work--compact">
       <a href="/images/photography/2024-12-zhangjiakou-geminids.jpg" class="image-popup">
         <img src="/images/photography/2024-12-zhangjiakou-geminids.jpg" alt="A Geminid meteor above Zhangjiakou, Hebei, China" loading="lazy" decoding="async">
       </a>
