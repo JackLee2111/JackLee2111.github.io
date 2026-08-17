@@ -63,6 +63,7 @@ author_profile: true
         <span class="showcase-eyebrow">2024.12</span>
         <h3>中国 · 北京 · RUC</h3>
         <p>RUC · Beijing · China</p>
+        <p class="showcase-work__note" lang="zh-CN">星轨 · <span lang="en">Star Trails</span></p>
       </figcaption>
     </figure>
 
@@ -139,6 +140,7 @@ author_profile: true
         <span class="showcase-eyebrow">2019.08</span>
         <h3>匈牙利 · 凯斯特海伊</h3>
         <p>Keszthely · Hungary</p>
+        <p class="showcase-work__note" lang="en">IOAA 2019 · Clear skies!</p>
       </figcaption>
     </figure>
 
