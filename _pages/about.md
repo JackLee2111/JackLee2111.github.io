@@ -7,27 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a first-year Ph.D student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my bachelor's degree from the School of Information, Renmin University of China in 2025.
+I'm currently a first-year Ph.D. student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my bachelor's degree from the School of Information, Renmin University of China in 2025.
 
 My research interests include **Vector Database, Data Management and AI4DB**.
 
----
+## Publications
 
-Publications
-======
+{% include publication-list.html %}
 
-* <b>POQD: Performance-Oriented Query Decomposer for Multi-vector retrieval</b><br/>
-    Yaoyang Liu, <b>Junlin Li</b>, Yinjun Wu, Zhen Chen<br/>
-    <i>ICML 2025</i><br> [<a href="https://github.com/PKU-SDS-lab/POQD-ICML25">Code</a>][<a href="https://arxiv.org/abs/2505.19189">Paper</a>][<a href="https://pku-sds-lab.github.io/POQD/">Intro</a>]
-
-* <b>L4G: Two-hop Label Management for Group Steiner Tree Search on Graphs</b><br/>
-    Xiaoyao Feng, Yahui Sun, Zhuoran Wang, <b>Junlin Li</b>, Sijia Luo, Rong-Hua Li<br/>
-    <i>IEEE International Conference on Data Engineering (ICDE) 2026</i>
-
----
-
-Awards
-======
+## Awards
 
 * <b>CCF Outstanding Undergraduate Award</b>, China Computer Federation (CCF), 2024
 

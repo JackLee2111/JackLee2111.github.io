@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Junlin Li"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Junlin Li"
+description              : &description "Academic homepage of Junlin Li, a Ph.D. student at Peking University."
+url                      : "https://jacklee2111.github.io" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "JackLee2111/JackLee2111.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : Junlin Li
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D student, School of Computer Science, Peking University"
+  bio              : "Ph.D. student, School of Computer Science, Peking University"
   location         : Beijing, China
   employer         : #"Red Brick University"
   uri              : # URL

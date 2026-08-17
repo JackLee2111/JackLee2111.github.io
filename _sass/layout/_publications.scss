@@ -1,0 +1,39 @@
+/* Compact publication entries inspired by the reference academic homepage. */
+.publication-list {
+  margin-top: 0.75em;
+}
+
+.publication {
+  margin: 0 0 1.35em;
+
+  p {
+    margin: 0;
+    line-height: 1.55;
+  }
+}
+
+.publication__title {
+  font-weight: 400;
+}
+
+.publication__authors strong {
+  font-weight: 700;
+}
+
+.publication__venue {
+  color: #198754;
+  font-style: italic;
+}
+
+.publication__links {
+  margin-top: 0.1em !important;
+
+  a {
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
+  }
+}

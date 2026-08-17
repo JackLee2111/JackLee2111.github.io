@@ -244,11 +244,28 @@
   }
 
   li {
+    display: flex;
+    align-items: baseline;
+    gap: 0.45em;
     white-space: nowrap;
+
+    > i {
+      flex: 0 0 1.25em;
+      width: 1.25em;
+      text-align: center;
+    }
+  }
+
+  @include breakpoint($large) {
+    .author__desktop {
+      display: flex;
+    }
   }
 
   a {
-    display: block;
+    display: flex;
+    align-items: baseline;
+    gap: 0.45em;
     margin-bottom: 5px;
     padding-right: 5px;
     padding-top: 2px;
@@ -256,6 +273,12 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+
+    > i {
+      flex: 0 0 1.25em;
+      width: 1.25em;
+      text-align: center;
+    }
 
     &:hover {
       text-decoration: underline;

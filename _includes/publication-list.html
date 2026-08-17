@@ -1,0 +1,17 @@
+{% assign publications = site.publications | sort: "date" | reverse %}
+<div class="publication-list">
+  {% for publication in publications %}
+    <article class="publication">
+      <p class="publication__title">{{ publication.title }}</p>
+      <p class="publication__authors">{{ publication.authors }}</p>
+      <p class="publication__venue">{{ publication.venue }}</p>
+      {% if publication.paperurl or publication.codeurl or publication.intro_url %}
+        <p class="publication__links">
+          {% if publication.paperurl %}[<a href="{{ publication.paperurl }}" target="_blank" rel="noopener noreferrer">Paper</a>]{% endif %}
+          {% if publication.codeurl %} [<a href="{{ publication.codeurl }}" target="_blank" rel="noopener noreferrer">Code</a>]{% endif %}
+          {% if publication.intro_url %} [<a href="{{ publication.intro_url }}" target="_blank" rel="noopener noreferrer">Intro</a>]{% endif %}
+        </p>
+      {% endif %}
+    </article>
+  {% endfor %}
+</div>
