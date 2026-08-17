@@ -30,7 +30,7 @@ author_profile: true
       <div class="creative-collection-card__mark"><i class="fas fa-feather-pointed" aria-hidden="true"></i></div>
       <span class="showcase-eyebrow">FICTION · ESSAYS</span>
       <h3>Writing</h3>
-      <p>Fiction and essays.</p>
+      <p>Fiction and essays, including coming-of-age romance, fan fiction, and mystery and detective stories.</p>
       <p class="creative-collection-card__zh" lang="zh-CN">小说与散文。</p>
       <span class="collection-status">To appear · 敬请期待</span>
     </article>
