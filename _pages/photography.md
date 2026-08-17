@@ -41,7 +41,7 @@ author_profile: true
   </div>
 
   <div class="showcase-note">
-    <i class="fas fa-images" aria-hidden="true"></i>
-    <p>A growing visual journal of light, place, and everyday moments.</p>
+    <i class="fas fa-user-group" aria-hidden="true"></i>
+    <p><span lang="zh-CN">欢迎和我一起扫街拍照、外出观星。</span> Feel free to join me for a photo walk or a night under the stars.</p>
   </div>
 </div>
