@@ -10,8 +10,8 @@ author_profile: true
     <div>
       <div class="showcase-eyebrow">SKETCHBOOK · STORIES · READING</div>
       <p class="showcase-lead">A quiet space for drawing, stories, and books.</p>
-      <p>I sketch still life, plants, and architecture, and enjoy reading and writing fiction and essays. This page is a growing collection of selected work and notes.</p>
-      <p class="showcase-summary-zh" lang="zh-CN">我喜欢静物、植物与建筑速写，也阅读和创作小说、散文；这里将持续收录作品与笔记。</p>
+      <p>I sketch still life, plants, and architecture, and enjoy reading and writing fiction and essays. I may add new work here from time to time, whenever inspiration strikes.</p>
+      <p class="showcase-summary-zh" lang="zh-CN">我喜欢静物、植物与建筑速写，也阅读和创作小说、散文；这里可能会不定期随缘更新作品。</p>
     </div>
   </section>
 
