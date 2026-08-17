@@ -1077,7 +1077,7 @@ html[data-theme="dark"] {
 }
 
 .showcase-work--compact > a img {
-  width: min(76%, 680px);
+  width: min(62%, 560px);
 }
 
 .showcase-work--duo {
@@ -1097,7 +1097,7 @@ html[data-theme="dark"] {
 
 @include breakpoint(max-width $medium) {
   .showcase-work--compact > a img {
-    width: 88%;
+    width: 78%;
   }
 
   .showcase-work--duo {
