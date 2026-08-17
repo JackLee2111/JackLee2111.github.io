@@ -34,7 +34,7 @@ author_profile: true
   <div class="showcase-callout">
     <div>
       <span class="showcase-callout__label">PLAY A GAME</span>
-      <strong>Bring your racket and say hello.</strong>
+      <strong>Any level is welcome—bring your racket, relax, have fun, and make new friends.</strong>
     </div>
     <a class="showcase-button" href="mailto:{{ site.author.email }}"><i class="fas fa-paper-plane" aria-hidden="true"></i> Invite me to play</a>
   </div>
