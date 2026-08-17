@@ -12,7 +12,7 @@ compact_title: true
   </blockquote>
 
   <div class="showcase-gallery">
-    <figure class="showcase-work showcase-work--featured showcase-work--portrait">
+    <figure class="showcase-work showcase-work--featured showcase-work--portrait showcase-work--image-large">
       <a href="/images/photography/2026-08-xilingol-milky-way.jpg" class="image-popup">
         <img src="/images/photography/2026-08-xilingol-milky-way.jpg" alt="Milky Way and a meteor above Xilingol League, Inner Mongolia, China" loading="lazy" decoding="async">
       </a>
@@ -101,7 +101,7 @@ compact_title: true
       </figcaption>
     </figure>
 
-    <figure class="showcase-work showcase-work--portrait">
+    <figure class="showcase-work showcase-work--portrait showcase-work--image-small">
       <a href="/images/photography/2022-08-wenchang-night-sky.jpg" class="image-popup">
         <img src="/images/photography/2022-08-wenchang-night-sky.jpg" alt="Night sky above Wenchang, Hainan, China" loading="lazy" decoding="async">
       </a>
@@ -127,7 +127,7 @@ compact_title: true
       </figcaption>
     </figure>
 
-    <figure class="showcase-work showcase-work--portrait">
+    <figure class="showcase-work showcase-work--portrait showcase-work--image-small">
       <a href="/images/photography/2018-08-changping-night-sky.jpg" class="image-popup">
         <img src="/images/photography/2018-08-changping-night-sky.jpg" alt="Night sky above Changping, Beijing, China" loading="lazy" decoding="async">
       </a>
@@ -138,7 +138,7 @@ compact_title: true
       </figcaption>
     </figure>
 
-    <figure class="showcase-work showcase-work--portrait">
+    <figure class="showcase-work showcase-work--portrait showcase-work--image-small">
       <a href="/images/photography/2017-10-huizhou-night-sky.jpg" class="image-popup">
         <img src="/images/photography/2017-10-huizhou-night-sky.jpg" alt="Night sky above Huizhou, Guangdong, China" loading="lazy" decoding="async">
       </a>

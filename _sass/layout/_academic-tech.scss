@@ -1299,6 +1299,16 @@ html[data-theme="dark"] {
   }
 }
 
+.showcase-work--image-large > a img {
+  max-height: 78vh;
+}
+
+.showcase-work--image-small > a img {
+  width: auto;
+  max-width: 66.667%;
+  max-height: 46.667vh;
+}
+
 .showcase-work--compact > a img {
   width: min(62%, 560px);
 }
