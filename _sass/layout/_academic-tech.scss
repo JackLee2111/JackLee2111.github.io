@@ -787,6 +787,14 @@ html[data-theme="dark"] {
   }
 }
 
+.showcase-hero .showcase-summary-zh {
+  margin-top: 0.38rem;
+  color: var(--tech-muted);
+  font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  font-size: 0.84rem;
+  line-height: 1.7;
+}
+
 .showcase-eyebrow {
   position: relative;
   color: var(--tech-blue);
@@ -1018,6 +1026,12 @@ html[data-theme="dark"] {
       margin: 0;
       font-size: 0.78rem;
       line-height: 1.5;
+    }
+
+    .showcase-work__note {
+      margin-top: 0.24rem;
+      color: var(--tech-ink);
+      font-weight: 620;
     }
   }
 }
