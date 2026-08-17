@@ -90,7 +90,10 @@ author_profile: true
       </figcaption>
     </figure>
 
-    <figure class="showcase-work showcase-work--portrait">
+    <figure class="showcase-work showcase-work--portrait showcase-work--duo">
+      <a href="/images/photography/2024-08-aksai-summer-triangle-milky-way-1.jpg" class="image-popup">
+        <img src="/images/photography/2024-08-aksai-summer-triangle-milky-way-1.jpg" alt="Summer Triangle and Milky Way above Aksai Kazak Autonomous County, Qinghai, China" loading="lazy" decoding="async">
+      </a>
       <a href="/images/photography/2024-08-aksai-summer-triangle-milky-way-2.jpg" class="image-popup">
         <img src="/images/photography/2024-08-aksai-summer-triangle-milky-way-2.jpg" alt="Summer Triangle and Milky Way above Aksai Kazak Autonomous County, Qinghai, China" loading="lazy" decoding="async">
       </a>
