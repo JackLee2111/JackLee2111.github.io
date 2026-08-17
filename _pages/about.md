@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="home-eyebrow">DATA4AI · AI4SYS · INTELLIGENT DATA SYSTEMS</div>
 
-I'm currently a Ph.D. student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my bachelor's degree from the School of Information, Renmin University of China in 2025.
+I'm currently a Ph.D. student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my bachelor's degree from the [School of Information](http://info.ruc.edu.cn/index.htm), [Renmin University of China](https://en.ruc.edu.cn/) in 2025.
 
 My research lies at the intersection of data systems and artificial intelligence, spanning both **Data for AI (Data4AI)** and **AI for Systems (AI4Sys)**. I am particularly interested in using AI to optimize data systems, with a focus on **vector databases and retrieval**, **semantic query**, **representation learning**, and **agent memory**. My goal is to build efficient, adaptive, and reliable data infrastructure for intelligent applications.
 
