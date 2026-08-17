@@ -9,10 +9,18 @@ author_profile: true
     <div class="showcase-hero__icon"><i class="fas fa-camera-retro" aria-hidden="true"></i></div>
     <div>
       <div class="showcase-eyebrow">LIGHT · PLACE · EVERYDAY MOMENTS</div>
-      <p class="showcase-lead">Photographs that preserve a scene, a color, or a fleeting feeling.</p>
-      <p>I use photography to document the visual details I encounter outside research. This gallery will continue to grow over time.</p>
+      <p class="showcase-lead">Photographs that hold light, atmosphere, and the quiet pulse of real life.</p>
+      <p>My work moves between night skies and natural landscapes, wildlife, and candid scenes of street and campus life. I favor natural light and unposed moments—small, real fragments with a lyrical sense of place.</p>
     </div>
   </section>
+
+  <div class="showcase-callout">
+    <div>
+      <span class="showcase-callout__label">FEATURED PHOTO ESSAY · 2024</span>
+      <strong>2024: Ten Frames of the Year</strong>
+    </div>
+    <a class="showcase-button" href="https://mp.weixin.qq.com/s/2iIgEdmNWNPvIO9paQ7Upg" target="_blank" rel="noopener noreferrer">View on WeChat <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+  </div>
 
   <h2>Selected Work</h2>
 
