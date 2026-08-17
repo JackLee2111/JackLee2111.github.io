@@ -27,9 +27,42 @@ author_profile: true
   <h2>Selected Work</h2>
 
   <div class="showcase-gallery">
+    <figure class="showcase-work showcase-work--portrait">
+      <a href="/images/photography/2019-08-keszthely-night-sky.jpg" class="image-popup">
+        <img src="/images/photography/2019-08-keszthely-night-sky.jpg" alt="Milky Way above Keszthely, Hungary" loading="lazy" decoding="async">
+      </a>
+      <figcaption>
+        <span class="showcase-eyebrow">2019.08</span>
+        <h3>匈牙利 · 凯斯特海伊</h3>
+        <p>Keszthely · Hungary</p>
+      </figcaption>
+    </figure>
+
+    <figure class="showcase-work showcase-work--portrait">
+      <a href="/images/photography/2024-12-ruc-star-trails.jpg" class="image-popup">
+        <img src="/images/photography/2024-12-ruc-star-trails.jpg" alt="Star trails above the Renmin University of China campus in Beijing" loading="lazy" decoding="async">
+      </a>
+      <figcaption>
+        <span class="showcase-eyebrow">2024.12</span>
+        <h3>中国 · 北京 · RUC</h3>
+        <p>RUC · Beijing · China</p>
+      </figcaption>
+    </figure>
+
+    <figure class="showcase-work showcase-work--portrait">
+      <a href="/images/photography/2025-08-ili-milky-way.jpg" class="image-popup">
+        <img src="/images/photography/2025-08-ili-milky-way.jpg" alt="Milky Way above Ili, Xinjiang, China" loading="lazy" decoding="async">
+      </a>
+      <figcaption>
+        <span class="showcase-eyebrow">2025.08</span>
+        <h3>中国 · 新疆 · 伊犁</h3>
+        <p>Ili · Xinjiang · China</p>
+      </figcaption>
+    </figure>
+
     <figure class="showcase-work showcase-work--featured showcase-work--portrait">
       <a href="/images/photography/2026-08-xilingol-milky-way.jpg" class="image-popup">
-        <img src="/images/photography/2026-08-xilingol-milky-way.jpg" alt="Milky Way and a meteor above Xilingol League, Inner Mongolia, China">
+        <img src="/images/photography/2026-08-xilingol-milky-way.jpg" alt="Milky Way and a meteor above Xilingol League, Inner Mongolia, China" loading="lazy" decoding="async">
       </a>
       <figcaption>
         <span class="showcase-eyebrow">2026.08</span>
