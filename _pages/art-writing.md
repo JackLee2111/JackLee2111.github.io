@@ -26,10 +26,10 @@ author_profile: true
     </article>
     <article class="creative-collection-card">
       <div class="creative-collection-card__mark"><i class="fas fa-feather-pointed" aria-hidden="true"></i></div>
-      <span class="showcase-eyebrow">WRITTEN NOTES</span>
+      <span class="showcase-eyebrow">FICTION · ESSAYS</span>
       <h3>Writing</h3>
-      <p>Notes, short essays, and reflections from research and everyday life.</p>
-      <span class="collection-status">Selected works will be added here</span>
+      <p>Fiction and essays.</p>
+      <span class="collection-status">To appear</span>
     </article>
   </div>
 

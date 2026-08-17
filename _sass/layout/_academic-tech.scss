@@ -327,7 +327,7 @@ html[data-theme="dark"] .research-focus span {
     position: absolute;
     top: 1.15rem;
     bottom: 1.15rem;
-    left: 1.28rem;
+    left: 2.63rem;
     width: 1px;
     background: linear-gradient(180deg, var(--tech-cyan), rgba(46, 127, 193, 0.18));
   }
@@ -336,7 +336,7 @@ html[data-theme="dark"] .research-focus span {
 .experience-card {
   position: relative;
   display: grid;
-  grid-template-columns: 2.55rem minmax(0, 1fr);
+  grid-template-columns: 5.2rem minmax(0, 1fr);
   gap: 0.9rem;
   align-items: flex-start;
   margin: 0;
@@ -359,24 +359,22 @@ html[data-theme="dark"] .research-focus span {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 2.55rem;
+  width: 5.2rem;
   height: 2.55rem;
+  padding: 0.5rem 0.58rem;
   border: 3px solid var(--tech-surface-solid);
   border-radius: 12px;
-  color: #fff;
-  font-size: 0.84rem;
-  font-weight: 780;
-  line-height: 1;
+  overflow: hidden;
+  background: #fff;
   box-shadow: 0 5px 14px rgba(22, 65, 97, 0.14);
   z-index: 1;
+}
 
-  &--tencent {
-    background: linear-gradient(145deg, #2f9bc4, #176b9c);
-  }
-
-  &--bytedance {
-    background: linear-gradient(145deg, #25b9c1, #5756a8 58%, #d45d8c);
-  }
+.experience-card__logo {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 .experience-card__body {
@@ -1303,18 +1301,19 @@ html[data-theme="dark"] .page__footer {
   }
 
   .experience-card {
-    grid-template-columns: 2.35rem minmax(0, 1fr);
+    grid-template-columns: 4.6rem minmax(0, 1fr);
     gap: 0.72rem;
     padding: 0.9rem;
   }
 
   .experience-list::before {
-    left: 1.18rem;
+    left: 2.3rem;
   }
 
   .experience-card__mark {
-    width: 2.35rem;
+    width: 4.6rem;
     height: 2.35rem;
+    padding: 0.48rem 0.5rem;
     border-radius: 11px;
   }
 

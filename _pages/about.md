@@ -24,22 +24,17 @@ My research lies at the intersection of data systems and artificial intelligence
 
 </div>
 
+## Publications
+
+{% include publication-list.html %}
+
 ## Experience
 
 <div class="experience-list">
   <article class="experience-card">
-    <div class="experience-card__mark experience-card__mark--tencent">T</div>
-    <div class="experience-card__body">
-      <div class="experience-card__header">
-        <h3>Tencent <span>· Hunyuan</span></h3>
-        <time>2025.11 – 2026.06</time>
-      </div>
-      <p class="experience-card__role">Research Intern</p>
-      <div class="experience-card__topics"><span>AI Search</span><span>Embedding Models</span></div>
+    <div class="experience-card__mark">
+      <img class="experience-card__logo" src="/images/logos/bytedance.svg" alt="ByteDance logo">
     </div>
-  </article>
-  <article class="experience-card">
-    <div class="experience-card__mark experience-card__mark--bytedance">B</div>
     <div class="experience-card__body">
       <div class="experience-card__header">
         <h3>ByteDance <span>· DATA</span></h3>
@@ -49,11 +44,20 @@ My research lies at the intersection of data systems and artificial intelligence
       <div class="experience-card__topics"><span>Semantic Querying</span><span>AI Agents</span></div>
     </div>
   </article>
+  <article class="experience-card">
+    <div class="experience-card__mark">
+      <img class="experience-card__logo" src="/images/logos/tencent.svg" alt="Tencent logo">
+    </div>
+    <div class="experience-card__body">
+      <div class="experience-card__header">
+        <h3>Tencent <span>· Hunyuan</span></h3>
+        <time>2025.11 – 2026.06</time>
+      </div>
+      <p class="experience-card__role">Research Intern</p>
+      <div class="experience-card__topics"><span>AI Search</span><span>Embedding Models</span></div>
+    </div>
+  </article>
 </div>
-
-## Publications
-
-{% include publication-list.html %}
 
 ## Awards
 
@@ -73,7 +77,7 @@ My research lies at the intersection of data systems and artificial intelligence
   </a>
   <a class="interest-card" href="/art-writing/" aria-label="Explore my art and writing page">
     <span class="interest-card__icon"><i class="fas fa-pen-nib" aria-hidden="true"></i></span>
-    <div><strong>Art & Writing</strong><span>Sketching, painting, and writing.</span></div>
+    <div><strong>Art & Writing</strong><span>Sketching, painting, fiction, and essays.</span></div>
     <span class="interest-card__arrow"><i class="fas fa-arrow-right" aria-hidden="true"></i></span>
   </a>
   <a class="interest-card" href="/photography/" aria-label="Explore my photography page">
