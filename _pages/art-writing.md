@@ -30,16 +30,16 @@ author_profile: true
       <div class="creative-collection-card__mark"><i class="fas fa-feather-pointed" aria-hidden="true"></i></div>
       <span class="showcase-eyebrow">FICTION · ESSAYS</span>
       <h3>Writing</h3>
-      <p>Fiction and essays, including coming-of-age romance, fan fiction, and mystery fiction.</p>
-      <p class="creative-collection-card__zh" lang="zh-CN">小说与散文，包括青春纯爱、同人与悬疑推理。</p>
+      <p>Fiction and essays. My writing includes coming-of-age romance, fan fiction, and mystery fiction.</p>
+      <p class="creative-collection-card__zh" lang="zh-CN">小说与散文。包括青春纯爱、同人与悬疑推理。</p>
       <span class="collection-status">To appear · 敬请期待</span>
     </article>
     <article class="creative-collection-card">
       <div class="creative-collection-card__mark"><i class="fas fa-book-open" aria-hidden="true"></i></div>
       <span class="showcase-eyebrow">BOOKS · IDEAS</span>
       <h3>Reading</h3>
-      <p>I enjoy science fiction and mystery, as well as Chinese classical texts, especially the <em>Zhouyi</em> (<em>Book of Changes</em>).</p>
-      <p class="creative-collection-card__zh" lang="zh-CN">科幻与悬疑小说，以及中国古典典籍，尤其是《周易》（《易经》）。</p>
+      <p>I enjoy science fiction, mysteries, and sociological fiction and essays. I am also interested in traditional Chinese culture, especially the <em>Zhouyi</em> (<em>Book of Changes</em>).</p>
+      <p class="creative-collection-card__zh" lang="zh-CN">科幻、悬疑、社会学小说/散文，以及中国传统文化，尤其是《周易》。</p>
       <span class="collection-status">To appear · 敬请期待</span>
     </article>
   </div>
