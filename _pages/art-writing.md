@@ -38,8 +38,8 @@ author_profile: true
       <div class="creative-collection-card__mark"><i class="fas fa-book-open" aria-hidden="true"></i></div>
       <span class="showcase-eyebrow">BOOKS · IDEAS</span>
       <h3>Reading</h3>
-      <p>I enjoy science fiction, mysteries, and sociological fiction and essays. I am also interested in traditional Chinese culture, especially the <em>Zhouyi</em> (<em>Book of Changes</em>).</p>
-      <p class="creative-collection-card__zh" lang="zh-CN">科幻、悬疑、社会学小说/散文，以及中国传统文化，尤其是《周易》。</p>
+      <p>I enjoy science fiction, mysteries, novels, and essays. I also read sociology and biographies, and I am interested in traditional Chinese culture, such as the <em>Zhouyi</em> (<em>Book of Changes</em>).</p>
+      <p class="creative-collection-card__zh" lang="zh-CN">科幻、悬疑、小说与散文，社会学与人物传记，以及中国传统文化（如《周易》）。</p>
       <span class="collection-status">To appear · 敬请期待</span>
     </article>
   </div>
