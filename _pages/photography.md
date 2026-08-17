@@ -9,9 +9,9 @@ author_profile: true
     <div class="showcase-hero__icon"><i class="fas fa-camera-retro" aria-hidden="true"></i></div>
     <div>
       <div class="showcase-eyebrow">LIGHT · PLACE · EVERYDAY MOMENTS</div>
-      <p class="showcase-lead">Photographs that hold light, atmosphere, and the quiet pulse of real life.</p>
-      <p>My work moves between night skies and natural landscapes, wildlife, and candid scenes of street and campus life. I favor natural light and unposed moments—small, real fragments with a lyrical sense of place.</p>
-      <p class="showcase-summary-zh" lang="zh-CN">我关注星空与自然景观、野生生命，以及街头和校园中的真实瞬间；偏爱自然光与未经摆拍的画面，记录有温度、有诗意的日常切片。</p>
+      <p class="showcase-lead">Photographs shaped by light and shadow, atmosphere, and the quiet pulse of real life.</p>
+      <p>My work spans night skies and natural landscapes, wildlife, candid street and campus scenes, and portraiture—from Japanese-inspired, natural portraits to wide environmental compositions. I am drawn to light and shadow, natural color, and unposed moments, preserving real fragments with a lyrical sense of place.</p>
+      <p class="showcase-summary-zh" lang="zh-CN">我的镜头往返于星空与自然景观、野生生命、街头与校园日常，也拍摄日系氛围、自然感与大景构图的人像。我偏爱光影、自然色彩和未经摆拍的瞬间，记录真实而有诗意的片段。</p>
     </div>
   </section>
 
@@ -34,7 +34,7 @@ author_profile: true
         <span class="showcase-eyebrow">2026.08 · ASTROPHOTOGRAPHY</span>
         <h3>中国 · 内蒙古 · 锡林郭勒盟</h3>
         <p>China · Inner Mongolia · Xilingol League</p>
-        <p class="showcase-work__note" lang="zh-CN">英仙座流星雨 · Perseid Meteor Shower</p>
+        <p class="showcase-work__note" lang="zh-CN">英仙座流星雨 · The Perseids Meteor Shower</p>
       </figcaption>
     </figure>
 
