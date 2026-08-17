@@ -73,6 +73,29 @@ author_profile: true
       </figcaption>
     </figure>
 
+    <figure class="showcase-work showcase-work--portrait">
+      <a href="/images/photography/2022-11-ruc-partial-lunar-eclipse.jpg" class="image-popup">
+        <img src="/images/photography/2022-11-ruc-partial-lunar-eclipse.jpg" alt="Partial lunar eclipse observed at Renmin University of China in Beijing" loading="lazy" decoding="async">
+      </a>
+      <figcaption>
+        <span class="showcase-eyebrow">2022.11</span>
+        <h3>中国 · 北京 · RUC</h3>
+        <p>RUC · Beijing · China</p>
+        <p class="showcase-work__note" lang="zh-CN">月偏食 · Partial Lunar Eclipse</p>
+      </figcaption>
+    </figure>
+
+    <figure class="showcase-work showcase-work--portrait">
+      <a href="/images/photography/2022-08-wenchang-night-sky.jpg" class="image-popup">
+        <img src="/images/photography/2022-08-wenchang-night-sky.jpg" alt="Night sky above Wenchang, Hainan, China" loading="lazy" decoding="async">
+      </a>
+      <figcaption>
+        <span class="showcase-eyebrow">2022.08</span>
+        <h3>中国 · 海南 · 文昌</h3>
+        <p>Wenchang · Hainan · China</p>
+      </figcaption>
+    </figure>
+
     <figure class="showcase-work showcase-work--portrait showcase-work--duo">
       <a href="/images/photography/2019-08-keszthely-night-sky.jpg" class="image-popup">
         <img src="/images/photography/2019-08-keszthely-night-sky.jpg" alt="Milky Way above Keszthely, Hungary" loading="lazy" decoding="async">
@@ -84,6 +107,28 @@ author_profile: true
         <span class="showcase-eyebrow">2019.08</span>
         <h3>匈牙利 · 凯斯特海伊</h3>
         <p>Keszthely · Hungary</p>
+      </figcaption>
+    </figure>
+
+    <figure class="showcase-work showcase-work--portrait">
+      <a href="/images/photography/2018-08-changping-night-sky.jpg" class="image-popup">
+        <img src="/images/photography/2018-08-changping-night-sky.jpg" alt="Night sky above Changping, Beijing, China" loading="lazy" decoding="async">
+      </a>
+      <figcaption>
+        <span class="showcase-eyebrow">2018.08</span>
+        <h3>中国 · 北京 · 昌平</h3>
+        <p>Changping · Beijing · China</p>
+      </figcaption>
+    </figure>
+
+    <figure class="showcase-work showcase-work--portrait">
+      <a href="/images/photography/2017-10-huizhou-night-sky.jpg" class="image-popup">
+        <img src="/images/photography/2017-10-huizhou-night-sky.jpg" alt="Night sky above Huizhou, Guangdong, China" loading="lazy" decoding="async">
+      </a>
+      <figcaption>
+        <span class="showcase-eyebrow">2017.10</span>
+        <h3>中国 · 广东 · 惠州</h3>
+        <p>Huizhou · Guangdong · China</p>
       </figcaption>
     </figure>
 
