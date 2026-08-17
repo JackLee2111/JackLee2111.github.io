@@ -13,12 +13,12 @@ redirect_from:
 
 I'm currently a Ph.D. student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my bachelor's degree from the School of Information, Renmin University of China in 2025.
 
-My research lies at the intersection of data systems and artificial intelligence, spanning both **Data for AI (Data4AI)** and **AI for Systems (AI4Sys)**. I am particularly interested in using AI to optimize data systems, with a focus on **vector databases and retrieval**, **semantic query**, **adaptive representation learning**, and **agent memory**. My goal is to build efficient, adaptive, and reliable data infrastructure for intelligent applications.
+My research lies at the intersection of data systems and artificial intelligence, spanning both **Data for AI (Data4AI)** and **AI for Systems (AI4Sys)**. I am particularly interested in using AI to optimize data systems, with a focus on **vector databases and retrieval**, **semantic query**, **representation learning**, and **agent memory**. My goal is to build efficient, adaptive, and reliable data infrastructure for intelligent applications.
 
 <div class="research-focus" aria-label="Research focus">
   <span><i class="fas fa-database" aria-hidden="true"></i> Vector Databases & Retrieval</span>
   <span><i class="fas fa-magnifying-glass" aria-hidden="true"></i> Semantic Query</span>
-  <span><i class="fas fa-layer-group" aria-hidden="true"></i> Adaptive Representation Learning</span>
+  <span><i class="fas fa-layer-group" aria-hidden="true"></i> Representation Learning / 隐空间学习</span>
   <span><i class="fas fa-brain" aria-hidden="true"></i> Agent Memory</span>
 </div>
 
