@@ -36,16 +36,6 @@ author_profile: true
       </figcaption>
     </figure>
 
-    <figure class="showcase-work showcase-work--featured">
-      <a href="/images/profile-sky-full.jpg" class="image-popup">
-        <img src="/images/profile-sky-full.jpg" alt="Railway crossing beneath a dramatic blue summer sky">
-      </a>
-      <figcaption>
-        <span class="showcase-eyebrow">SELECTED PHOTOGRAPH</span>
-        <h3>Railway Crossing</h3>
-        <p>A quiet figure, railway signals, and towering clouds beneath a blue sky.</p>
-      </figcaption>
-    </figure>
   </div>
 
   <div class="showcase-note">
