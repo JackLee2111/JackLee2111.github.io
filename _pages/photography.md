@@ -8,6 +8,7 @@ author_profile: true
   <section class="showcase-hero showcase-hero--photography">
     <div class="showcase-hero__icon"><i class="fas fa-camera-retro" aria-hidden="true"></i></div>
     <div>
+      <p class="showcase-motto" lang="zh-CN">“留住 温度 速度 温柔和愤怒”</p>
       <div class="showcase-eyebrow">LIGHT · PLACE · EVERYDAY MOMENTS</div>
       <p class="showcase-lead">Photographs shaped by light and shadow, atmosphere, and the quiet pulse of real life.</p>
       <p>My work spans night skies and natural landscapes, wildlife, candid street and campus scenes, and portraiture—from Japanese-inspired, natural portraits to wide environmental compositions. I am drawn to light and shadow, natural color, and unposed moments, preserving real fragments with a lyrical sense of place.</p>

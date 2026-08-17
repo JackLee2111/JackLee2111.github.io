@@ -795,6 +795,17 @@ html[data-theme="dark"] {
   line-height: 1.7;
 }
 
+.showcase-hero .showcase-motto {
+  margin: 0 0 0.45rem;
+  color: var(--tech-ink);
+  font-family: "Songti SC", "STSong", Georgia, serif;
+  font-size: 1.02rem;
+  font-style: italic;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  line-height: 1.5;
+}
+
 .showcase-eyebrow {
   position: relative;
   color: var(--tech-blue);
