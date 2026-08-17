@@ -138,8 +138,8 @@ author_profile: true
       </a>
       <figcaption>
         <span class="showcase-eyebrow">2019.08</span>
-        <h3>匈牙利 · 凯斯特海伊</h3>
-        <p>Keszthely · Hungary</p>
+        <h3>匈牙利 · 凯斯特海伊 · 巴拉顿湖</h3>
+        <p>Lake Balaton · Keszthely · Hungary</p>
         <p class="showcase-work__note" lang="en">IOAA 2019 · Clear skies!</p>
       </figcaption>
     </figure>
