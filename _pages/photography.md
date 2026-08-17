@@ -24,7 +24,7 @@ author_profile: true
     <a class="showcase-button" href="https://mp.weixin.qq.com/s/2iIgEdmNWNPvIO9paQ7Upg" target="_blank" rel="noopener noreferrer">View on WeChat <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
   </div>
 
-  <h2>Selected Work</h2>
+  <h2>Astrophotography · 天空摄影</h2>
 
   <div class="showcase-gallery">
     <figure class="showcase-work showcase-work--featured showcase-work--portrait">
