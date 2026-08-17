@@ -34,7 +34,7 @@ author_profile: true
       <figcaption>
         <span class="showcase-eyebrow">2026.08</span>
         <h3>中国 · 内蒙古 · 锡林郭勒盟</h3>
-        <p>China · Inner Mongolia · Xilingol League</p>
+        <p>Xilingol League · Inner Mongolia · China</p>
         <p class="showcase-work__note" lang="zh-CN">英仙座流星雨 · The Perseids Meteor Shower</p>
       </figcaption>
     </figure>
