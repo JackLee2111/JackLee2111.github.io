@@ -61,6 +61,18 @@ author_profile: true
       </figcaption>
     </figure>
 
+    <figure class="showcase-work showcase-work--portrait">
+      <a href="/images/photography/2024-10-baiwang-mountain-tsuchinshan-atlas.jpg" class="image-popup">
+        <img src="/images/photography/2024-10-baiwang-mountain-tsuchinshan-atlas.jpg" alt="Comet C/2023 A3 (Tsuchinshan-ATLAS) above Baiwang Mountain in Beijing, China" loading="lazy" decoding="async">
+      </a>
+      <figcaption>
+        <span class="showcase-eyebrow">2024.10</span>
+        <h3>中国 · 北京 · 百望山</h3>
+        <p>Baiwang Mountain · Beijing · China</p>
+        <p class="showcase-work__note" lang="zh-CN">☄ 紫金山-阿特拉斯彗星 · C/2023 A3 (Tsuchinshan-ATLAS)</p>
+      </figcaption>
+    </figure>
+
     <figure class="showcase-work showcase-work--portrait showcase-work--duo">
       <a href="/images/photography/2019-08-keszthely-night-sky.jpg" class="image-popup">
         <img src="/images/photography/2019-08-keszthely-night-sky.jpg" alt="Milky Way above Keszthely, Hungary" loading="lazy" decoding="async">
