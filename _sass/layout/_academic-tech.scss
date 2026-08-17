@@ -1000,6 +1000,16 @@ html[data-theme="dark"] {
   }
 }
 
+.showcase-work--portrait > a {
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(145deg, #07101a, #101f2d);
+
+  img {
+    width: min(100%, 38rem);
+  }
+}
+
 .showcase-note {
   display: flex;
   align-items: flex-start;
