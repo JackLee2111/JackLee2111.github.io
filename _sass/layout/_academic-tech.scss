@@ -1071,9 +1071,12 @@ html[data-theme="dark"] {
     font-family: inherit;
 
     h3 {
-      margin: 0.28rem 0 0.22rem;
-      color: var(--tech-ink);
-      font-size: 1rem;
+      margin: 0.28rem 0 0.08rem;
+      color: var(--tech-muted);
+      font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      font-size: 0.8rem;
+      font-weight: 620;
+      line-height: 1.5;
     }
 
     p {
@@ -1082,10 +1085,18 @@ html[data-theme="dark"] {
       line-height: 1.5;
     }
 
-    .showcase-work__note {
-      margin-top: 0.24rem;
+    h3 + p {
       color: var(--tech-ink);
-      font-weight: 620;
+      font-size: 0.88rem;
+      font-weight: 650;
+      line-height: 1.45;
+    }
+
+    .showcase-work__note {
+      margin-top: 0.3rem;
+      color: var(--tech-muted);
+      font-size: 0.75rem;
+      font-weight: 580;
     }
   }
 }
@@ -1143,6 +1154,20 @@ html[data-theme="dark"] {
 
   .showcase-work--compact > a img {
     width: 78%;
+  }
+
+  .showcase-work figcaption {
+    h3 {
+      font-size: 0.77rem;
+    }
+
+    h3 + p {
+      font-size: 0.84rem;
+    }
+
+    .showcase-work__note {
+      font-size: 0.72rem;
+    }
   }
 
   .showcase-work--duo {
