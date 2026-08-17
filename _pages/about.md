@@ -13,11 +13,11 @@ redirect_from:
 
 I'm currently a Ph.D. student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my bachelor's degree from the School of Information, Renmin University of China in 2025.
 
-My research lies at the intersection of data systems and artificial intelligence, spanning both **Data for AI (Data4AI)** and **AI for Systems (AI4Sys)**. I am particularly interested in using AI to optimize data systems, with a focus on **vector databases and retrieval**, **semantic querying**, **adaptive representation learning**, and **agent memory**. My goal is to build efficient, adaptive, and reliable data infrastructure for intelligent applications.
+My research lies at the intersection of data systems and artificial intelligence, spanning both **Data for AI (Data4AI)** and **AI for Systems (AI4Sys)**. I am particularly interested in using AI to optimize data systems, with a focus on **vector databases and retrieval**, **semantic query**, **adaptive representation learning**, and **agent memory**. My goal is to build efficient, adaptive, and reliable data infrastructure for intelligent applications.
 
 <div class="research-focus" aria-label="Research focus">
   <span><i class="fas fa-database" aria-hidden="true"></i> Vector Databases & Retrieval</span>
-  <span><i class="fas fa-magnifying-glass" aria-hidden="true"></i> Semantic Querying</span>
+  <span><i class="fas fa-magnifying-glass" aria-hidden="true"></i> Semantic Query</span>
   <span><i class="fas fa-layer-group" aria-hidden="true"></i> Adaptive Representation Learning</span>
   <span><i class="fas fa-brain" aria-hidden="true"></i> Agent Memory</span>
 </div>
@@ -37,11 +37,11 @@ My research lies at the intersection of data systems and artificial intelligence
     </div>
     <div class="experience-card__body">
       <div class="experience-card__header">
-        <h3>ByteDance <span>· DATA</span></h3>
+        <h3>ByteDance <span>· Data</span></h3>
         <time>2026.07 – Present</time>
       </div>
       <p class="experience-card__role">Research Intern</p>
-      <div class="experience-card__topics"><span>Semantic Querying</span><span>AI Agents</span></div>
+      <div class="experience-card__topics"><span>Semantic Query</span><span>AI Agents</span></div>
     </div>
   </article>
   <article class="experience-card">
