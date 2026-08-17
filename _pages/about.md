@@ -61,11 +61,41 @@ My research lies at the intersection of data systems and artificial intelligence
 
 ## Awards
 
-* <b>CCF Outstanding Undergraduate Award</b>, China Computer Federation (CCF), 2024 <span class="award__zh" lang="zh-CN">CCF 优秀大学生</span>
-
-* <b>Wu Yuzhang Scholarship</b> (the highest honor for RUC students, 10 per year among all students), Renmin Univ. of China, 2025 <span class="award__zh" lang="zh-CN">吴玉章奖学金（中国人民大学最高学生荣誉）</span>
-
-* <b>National Scholarship</b>, Ministry of Education of China, 2022, 2023, 2024 <span class="award__zh" lang="zh-CN">国家奖学金</span>
+<div class="award-list">
+  <article class="award-card">
+    <span class="award-card__icon"><i class="fas fa-medal" aria-hidden="true"></i></span>
+    <div class="award-card__body">
+      <div class="award-card__header">
+        <strong>Wu Yuzhang Scholarship</strong>
+        <time>2025</time>
+      </div>
+      <p>The highest honor for RUC students (10 recipients per year) · Renmin University of China</p>
+      <span class="award__zh" lang="zh-CN">吴玉章奖学金（中国人民大学最高学生荣誉）</span>
+    </div>
+  </article>
+  <article class="award-card">
+    <span class="award-card__icon"><i class="fas fa-medal" aria-hidden="true"></i></span>
+    <div class="award-card__body">
+      <div class="award-card__header">
+        <strong>CCF Outstanding Undergraduate Award</strong>
+        <time>2024</time>
+      </div>
+      <p>China Computer Federation (CCF)</p>
+      <span class="award__zh" lang="zh-CN">CCF 优秀大学生</span>
+    </div>
+  </article>
+  <article class="award-card">
+    <span class="award-card__icon"><i class="fas fa-medal" aria-hidden="true"></i></span>
+    <div class="award-card__body">
+      <div class="award-card__header">
+        <strong>National Scholarship</strong>
+        <time>2022 · 2023 · 2024</time>
+      </div>
+      <p>Ministry of Education of China</p>
+      <span class="award__zh" lang="zh-CN">国家奖学金</span>
+    </div>
+  </article>
+</div>
 
 ## Miscellaneous
 
