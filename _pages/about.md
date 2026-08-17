@@ -38,16 +38,19 @@ My research focuses on data systems for intelligent applications, especially **v
 ## Miscellaneous
 
 <div class="interest-grid">
-  <div class="interest-card">
-    <i class="fas fa-table-tennis-paddle-ball" aria-hidden="true"></i>
+  <a class="interest-card" href="/badminton/" aria-label="Explore my badminton page">
+    <span class="interest-card__icon"><i class="fas fa-table-tennis-paddle-ball" aria-hidden="true"></i></span>
     <div><strong>Badminton</strong><span>Playing, competing, and staying active.</span></div>
-  </div>
-  <div class="interest-card">
-    <i class="fas fa-pen-nib" aria-hidden="true"></i>
+    <span class="interest-card__arrow"><i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+  </a>
+  <a class="interest-card" href="/art-writing/" aria-label="Explore my art and writing page">
+    <span class="interest-card__icon"><i class="fas fa-pen-nib" aria-hidden="true"></i></span>
     <div><strong>Art & Writing</strong><span>Sketching, painting, and writing.</span></div>
-  </div>
-  <div class="interest-card">
-    <i class="fas fa-camera-retro" aria-hidden="true"></i>
+    <span class="interest-card__arrow"><i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+  </a>
+  <a class="interest-card" href="/photography/" aria-label="Explore my photography page">
+    <span class="interest-card__icon"><i class="fas fa-camera-retro" aria-hidden="true"></i></span>
     <div><strong>Photography</strong><span>Documenting light and everyday moments.</span></div>
-  </div>
+    <span class="interest-card__arrow"><i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+  </a>
 </div>
