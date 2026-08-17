@@ -27,14 +27,26 @@ author_profile: true
   <h2>Selected Work</h2>
 
   <div class="showcase-gallery">
-    <figure class="showcase-work showcase-work--portrait">
-      <a href="/images/photography/2019-08-keszthely-night-sky.jpg" class="image-popup">
-        <img src="/images/photography/2019-08-keszthely-night-sky.jpg" alt="Milky Way above Keszthely, Hungary" loading="lazy" decoding="async">
+    <figure class="showcase-work showcase-work--featured showcase-work--portrait">
+      <a href="/images/photography/2026-08-xilingol-milky-way.jpg" class="image-popup">
+        <img src="/images/photography/2026-08-xilingol-milky-way.jpg" alt="Milky Way and a meteor above Xilingol League, Inner Mongolia, China" loading="lazy" decoding="async">
       </a>
       <figcaption>
-        <span class="showcase-eyebrow">2019.08</span>
-        <h3>匈牙利 · 凯斯特海伊</h3>
-        <p>Keszthely · Hungary</p>
+        <span class="showcase-eyebrow">2026.08</span>
+        <h3>中国 · 内蒙古 · 锡林郭勒盟</h3>
+        <p>Xilingol League · Inner Mongolia · China</p>
+        <p class="showcase-work__note" lang="zh-CN">英仙座流星雨 · The Perseids Meteor Shower</p>
+      </figcaption>
+    </figure>
+
+    <figure class="showcase-work showcase-work--portrait">
+      <a href="/images/photography/2025-08-ili-milky-way.jpg" class="image-popup">
+        <img src="/images/photography/2025-08-ili-milky-way.jpg" alt="Milky Way above Ili, Xinjiang, China" loading="lazy" decoding="async">
+      </a>
+      <figcaption>
+        <span class="showcase-eyebrow">2025.08</span>
+        <h3>中国 · 新疆 · 伊犁</h3>
+        <p>Ili · Xinjiang · China</p>
       </figcaption>
     </figure>
 
@@ -50,25 +62,13 @@ author_profile: true
     </figure>
 
     <figure class="showcase-work showcase-work--portrait">
-      <a href="/images/photography/2025-08-ili-milky-way.jpg" class="image-popup">
-        <img src="/images/photography/2025-08-ili-milky-way.jpg" alt="Milky Way above Ili, Xinjiang, China" loading="lazy" decoding="async">
+      <a href="/images/photography/2019-08-keszthely-night-sky.jpg" class="image-popup">
+        <img src="/images/photography/2019-08-keszthely-night-sky.jpg" alt="Milky Way above Keszthely, Hungary" loading="lazy" decoding="async">
       </a>
       <figcaption>
-        <span class="showcase-eyebrow">2025.08</span>
-        <h3>中国 · 新疆 · 伊犁</h3>
-        <p>Ili · Xinjiang · China</p>
-      </figcaption>
-    </figure>
-
-    <figure class="showcase-work showcase-work--featured showcase-work--portrait">
-      <a href="/images/photography/2026-08-xilingol-milky-way.jpg" class="image-popup">
-        <img src="/images/photography/2026-08-xilingol-milky-way.jpg" alt="Milky Way and a meteor above Xilingol League, Inner Mongolia, China" loading="lazy" decoding="async">
-      </a>
-      <figcaption>
-        <span class="showcase-eyebrow">2026.08</span>
-        <h3>中国 · 内蒙古 · 锡林郭勒盟</h3>
-        <p>Xilingol League · Inner Mongolia · China</p>
-        <p class="showcase-work__note" lang="zh-CN">英仙座流星雨 · The Perseids Meteor Shower</p>
+        <span class="showcase-eyebrow">2019.08</span>
+        <h3>匈牙利 · 凯斯特海伊</h3>
+        <p>Keszthely · Hungary</p>
       </figcaption>
     </figure>
 
