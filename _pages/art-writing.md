@@ -46,6 +46,6 @@ author_profile: true
 
   <div class="showcase-note">
     <i class="fas fa-comments" aria-hidden="true"></i>
-    <p><span lang="zh-CN">欢迎交流阅读、写作与中国传统文化，一起探讨学习。</span> Always happy to exchange ideas, discuss stories, and learn together.</p>
+    <p><span lang="zh-CN">欢迎来和我聊阅读、写作、写生绘画与中国传统文化。也欢迎分享你的作品和想法，彼此交流，一起学习。</span> I am always happy to talk about books, writing, sketching, painting, and traditional Chinese culture. I would love to see what you make, hear what you think, and learn from each other.</p>
   </div>
 </div>
