@@ -11,7 +11,7 @@ redirect_from:
 
 I'm currently a Ph.D. student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my bachelor's degree from the [School of Information](http://info.ruc.edu.cn/index.htm), [Renmin University of China](https://en.ruc.edu.cn/) in 2025.
 
-My research lies at the intersection of data systems and artificial intelligence, spanning both **Data for AI (Data4AI)** and **AI for Systems (AI4Sys)**. I am particularly interested in **vector databases and retrieval**, **semantic query**, **representation learning in latent spaces**, and **agent memory**, with the goal of building efficient, adaptive, and reliable data infrastructure for intelligent applications.
+My research lies at the intersection of data systems and artificial intelligence, spanning both **Data for AI (Data4AI)** and **AI for Systems (AI4Sys)**. I am particularly interested in **vector databases and retrieval**, **semantic query**, **representation learning in latent spaces**, and **agent memory**, with the goal of building efficient, adaptive, and reliable data infrastructure for AI systems and applications.
 
 <div class="research-focus" aria-label="Research focus">
   <span><i class="fas fa-database" aria-hidden="true"></i> Vector Databases & Retrieval</span>
