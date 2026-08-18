@@ -322,6 +322,26 @@ html[data-theme="dark"] .research-focus span {
   background: rgba(53, 115, 137, 0.19);
 }
 
+.home-intro .home-collaboration-note {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin: 0.9rem 0 0;
+  color: var(--tech-muted);
+  font-size: 0.8rem;
+  line-height: 1.5;
+
+  > i {
+    flex: 0 0 auto;
+    color: var(--tech-cyan);
+    font-size: 0.78rem;
+  }
+
+  a {
+    font-weight: 650;
+  }
+}
+
 .experience-list {
   position: relative;
   display: grid;
