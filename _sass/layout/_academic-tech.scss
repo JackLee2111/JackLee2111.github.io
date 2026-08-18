@@ -1457,30 +1457,36 @@ html[data-theme="dark"] {
 }
 
 .author__avatar {
-  width: 50px;
-  height: 50px;
+  width: 46px;
+  height: 46px;
 
   img {
-    width: 50px;
-    height: 50px;
+    width: 46px;
+    height: 46px;
     object-fit: cover;
     object-position: center;
-    border-radius: 13px;
+    border-radius: 50%;
   }
 }
 
 @include breakpoint($large) {
   .author__avatar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 100%;
     height: auto;
   }
 
   .author__avatar img {
-    width: 100%;
-    height: auto;
+    width: 138px;
+    height: 138px;
     aspect-ratio: 1 / 1;
     object-fit: cover;
     object-position: center;
+    border: 1px solid rgba(42, 111, 151, 0.16);
+    border-radius: 50%;
+    box-shadow: 0 8px 22px rgba(22, 74, 110, 0.14);
   }
 }
 
