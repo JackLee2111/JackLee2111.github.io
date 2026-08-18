@@ -1546,6 +1546,36 @@ html[data-theme="dark"] {
   }
 }
 
+@include breakpoint($large) {
+  .author__urls {
+    li {
+      margin-bottom: 0.1rem;
+      border-radius: 8px;
+    }
+
+    li,
+    a {
+      gap: 0.28rem;
+      font-size: 0.67rem;
+      line-height: 1.18;
+    }
+
+    a,
+    li.author__link--location {
+      padding: 0.2rem 0.28rem;
+    }
+
+    li > i,
+    a > i {
+      flex-basis: 1.35rem;
+      width: 1.35rem;
+      height: 1.35rem;
+      border-radius: 6px;
+      font-size: 0.62rem;
+    }
+  }
+}
+
 html[data-theme="dark"] .author__urls {
   li:hover {
     background: rgba(85, 177, 211, 0.08);
