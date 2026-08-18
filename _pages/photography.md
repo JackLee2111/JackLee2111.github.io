@@ -18,16 +18,16 @@ author_profile: true
           <p lang="zh-CN">自然景观、野生动物、银河与天象。</p>
         </div>
         <div class="photography-subject-card">
-          <strong>Portraits</strong>
-          <span lang="zh-CN">人像</span>
-          <p>Natural, Japanese-inspired portraits and wider frames that place people in their surroundings.</p>
-          <p lang="zh-CN">自然、日系的人像，以及人与环境相融的大景构图。</p>
-        </div>
-        <div class="photography-subject-card">
           <strong>Street & Campus</strong>
           <span lang="zh-CN">街头与校园</span>
           <p>Unposed moments from streets, campuses, and ordinary days.</p>
           <p lang="zh-CN">街头、校园与日常生活中的真实瞬间。</p>
+        </div>
+        <div class="photography-subject-card">
+          <strong>Portraits</strong>
+          <span lang="zh-CN">人像</span>
+          <p>Natural, Japanese-inspired portraits and wider frames that place people in their surroundings.</p>
+          <p lang="zh-CN">自然、日系的人像，以及人与环境相融的大景构图。</p>
         </div>
       </div>
       <p class="photography-approach">Whatever the subject, I look for natural color, strong light and shadow, and moments that do not feel staged. I want each photograph to hold some of the feeling of being there.</p>
