@@ -20,7 +20,7 @@ My research lies at the intersection of data systems and artificial intelligence
   <span><i class="fas fa-brain" aria-hidden="true"></i> Agent Memory</span>
 </div>
 
-<p class="home-collaboration-note"><i class="far fa-envelope" aria-hidden="true"></i><span>Please feel free to <a href="mailto:lijunlin2021@ruc.edu.cn">reach out</a> for academic discussions or potential collaborations.</span></p>
+<p class="home-collaboration-note">Please feel free to <a href="mailto:lijunlin2021@ruc.edu.cn">reach out</a> for academic discussions or potential collaborations.</p>
 
 </div>
 
