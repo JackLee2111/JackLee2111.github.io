@@ -1457,15 +1457,21 @@ html[data-theme="dark"] {
 }
 
 .author__avatar {
-  width: 46px;
-  height: 46px;
+  width: 48px;
+  height: 48px;
+  user-select: none;
+  -webkit-user-select: none;
 
   img {
-    width: 46px;
-    height: 46px;
+    width: 48px;
+    height: 48px;
     object-fit: cover;
     object-position: center;
     border-radius: 50%;
+    pointer-events: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
   }
 }
 
@@ -1479,8 +1485,8 @@ html[data-theme="dark"] {
   }
 
   .author__avatar img {
-    width: 138px;
-    height: 138px;
+    width: 146px;
+    height: 146px;
     aspect-ratio: 1 / 1;
     object-fit: cover;
     object-position: center;

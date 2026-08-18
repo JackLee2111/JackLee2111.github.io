@@ -6,11 +6,11 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar">
+  <div class="author__avatar" oncontextmenu="return false;">
     {% if author.avatar contains "://" %}
-	<img src="{{ author.avatar }}" class="author__avatar-image" alt="{{ author.name }}">
+	<img src="{{ author.avatar }}" class="author__avatar-image" alt="{{ author.name }}" draggable="false">
     {% else %}
-	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar-image" alt="{{ author.name }}">
+	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar-image" alt="{{ author.name }}" draggable="false">
     {% endif %}
   </div>
 
