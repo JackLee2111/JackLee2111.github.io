@@ -1509,6 +1509,11 @@ html[data-theme="dark"] {
   background: var(--tech-surface-solid);
   box-shadow: var(--tech-shadow);
 
+  li {
+    margin-bottom: 0.2rem;
+    border-radius: 9px;
+  }
+
   li:hover {
     border-color: var(--tech-border);
     background: rgba(35, 118, 164, 0.055);
@@ -1516,18 +1521,23 @@ html[data-theme="dark"] {
 
   li,
   a {
-    gap: 0.55rem;
-    font-size: 0.73rem;
-    line-height: 1.35;
+    gap: 0.38rem;
+    font-size: 0.7rem;
+    line-height: 1.25;
+  }
+
+  a,
+  li.author__link--location {
+    padding: 0.28rem 0.36rem;
   }
 
   li > i,
   a > i {
-    flex-basis: 1.75rem;
-    width: 1.75rem;
-    height: 1.75rem;
-    border-radius: 8px;
-    font-size: 0.76rem;
+    flex-basis: 1.5rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 7px;
+    font-size: 0.68rem;
     line-height: 1;
   }
 
