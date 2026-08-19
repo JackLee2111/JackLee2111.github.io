@@ -48,8 +48,8 @@ author_profile: true
 
   <div class="showcase-category-grid">
     <a class="showcase-category-card" href="/astrophotography/" aria-label="Explore Astrophotography · 夜观天象">
-      <span class="showcase-category-card__image">
-        <img src="/images/photography/2026-08-xilingol-milky-way.jpg" alt="Milky Way and a meteor above Xilingol League" loading="lazy" decoding="async">
+      <span class="showcase-category-card__image protected-media" oncontextmenu="return false;">
+        <img src="/images/photography/2026-08-xilingol-milky-way.jpg" alt="Milky Way and a meteor above Xilingol League" loading="lazy" decoding="async" draggable="false">
       </span>
       <span class="showcase-category-card__content">
         <span class="showcase-eyebrow">COLLECTION 01 · NIGHT SKY</span>
