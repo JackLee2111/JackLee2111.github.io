@@ -20,7 +20,7 @@ redirect_from:
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Profile image (can set in _config.yml): images/profile/profile-illustrated-v5-web.jpg
 
 ## Tips and hints
 
@@ -296,4 +296,3 @@ This allows you to denote <var>variables</var>.
 **Footnotes**
 
 The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
-
