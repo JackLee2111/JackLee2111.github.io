@@ -428,27 +428,49 @@ html[data-theme="dark"] .research-focus span {
 }
 
 .experience-card__role {
-  margin: 0.16rem 0 0.5rem !important;
+  margin: 0.16rem 0 0.06rem !important;
   color: var(--tech-blue);
   font-size: 0.8rem !important;
   font-weight: 680;
   line-height: 1.4 !important;
 }
 
-.experience-card__topics {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.38rem;
+.experience-card__meta {
+  margin: 0 !important;
+  color: var(--tech-muted);
+  font-size: 0.68rem !important;
+  font-weight: 560;
+  letter-spacing: 0.01em;
+  line-height: 1.45 !important;
+}
 
-  span {
-    padding: 0.27rem 0.5rem;
-    border: 1px solid var(--tech-border);
-    border-radius: 7px;
+.experience-card__topics {
+  display: grid;
+  gap: 0.27rem;
+  margin: 0.48rem 0 0 !important;
+  padding: 0 !important;
+  list-style: none;
+
+  li {
+    position: relative;
+    margin: 0 !important;
+    padding-left: 0.82rem;
     color: var(--tech-muted);
-    background: rgba(37, 139, 177, 0.045);
-    font-size: 0.67rem;
-    font-weight: 620;
-    line-height: 1.2;
+    font-size: 0.73rem;
+    font-weight: 560;
+    line-height: 1.42;
+
+    &::before {
+      content: "";
+      position: absolute;
+      top: 0.49rem;
+      left: 0.11rem;
+      width: 0.27rem;
+      height: 0.27rem;
+      border-radius: 50%;
+      background: var(--tech-cyan);
+      box-shadow: 0 0 0 3px rgba(42, 151, 190, 0.1);
+    }
   }
 }
 
@@ -457,8 +479,8 @@ html[data-theme="dark"] {
     border-color: #202c39;
   }
 
-  .experience-card__topics span {
-    background: rgba(68, 145, 174, 0.11);
+  .experience-card__topics li::before {
+    box-shadow: 0 0 0 3px rgba(68, 145, 174, 0.12);
   }
 }
 

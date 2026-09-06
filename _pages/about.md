@@ -38,10 +38,14 @@ My research lies at the intersection of data systems and artificial intelligence
     <div class="experience-card__body">
       <div class="experience-card__header">
         <h3>ByteDance <span>· Data</span></h3>
-        <time>2026.07 – Present</time>
+        <time>Jul 2026 – Present</time>
       </div>
       <p class="experience-card__role">Research Intern</p>
-      <div class="experience-card__topics"><span>Semantic Query</span><span>AI Agents</span></div>
+      <p class="experience-card__meta">Beijing, China <span aria-hidden="true">·</span> On-site</p>
+      <ul class="experience-card__topics">
+        <li>Large-scale LLM data agent systems</li>
+        <li>Semantic query for unstructured data</li>
+      </ul>
     </div>
   </article>
   <article class="experience-card">
@@ -51,10 +55,15 @@ My research lies at the intersection of data systems and artificial intelligence
     <div class="experience-card__body">
       <div class="experience-card__header">
         <h3>Tencent <span>· Hunyuan</span></h3>
-        <time>2025.11 – 2026.06</time>
+        <time>Nov 2025 – Jul 2026</time>
       </div>
       <p class="experience-card__role">Research Intern</p>
-      <div class="experience-card__topics"><span>AI Search</span><span>Embedding Models</span></div>
+      <p class="experience-card__meta">Beijing, China <span aria-hidden="true">·</span> On-site</p>
+      <ul class="experience-card__topics">
+        <li>Yuanbao AI Search</li>
+        <li>Embedding models and representation learning</li>
+        <li>Agentic search for LLMs</li>
+      </ul>
     </div>
   </article>
 </div>
