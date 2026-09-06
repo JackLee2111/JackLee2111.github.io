@@ -292,48 +292,45 @@ html[data-theme="dark"] .home-intro {
 
 .research-focus {
   position: relative;
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 0.62rem;
+  margin: 0.3rem 0 1.05rem;
+  color: var(--tech-ink);
+  font-size: 1rem;
+  line-height: 1.65;
   z-index: 1;
 
-  &__item {
-    min-width: 0;
-    padding: 0.72rem 0.76rem;
-    border: 1px solid rgba(30, 128, 171, 0.14);
-    border-radius: 12px;
-    background: rgba(230, 245, 249, 0.68);
-  }
+  &__list {
+    margin: 0;
+    padding-inline-start: 1.25em;
+    list-style: disc outside;
 
-  &__title {
-    display: flex;
-    align-items: center;
-    gap: 0.42rem;
-    color: #245878;
-    font-size: 0.74rem;
-    font-weight: 720;
-    line-height: 1.25;
-  }
+    li {
+      margin: 0;
+      padding-inline-start: 0.2em;
+      font-size: inherit;
+      line-height: inherit;
+    }
 
-  p {
-    margin: 0.42rem 0 0;
-    color: var(--tech-muted);
-    font-size: 0.72rem;
-    line-height: 1.48;
-  }
+    li + li {
+      margin-top: 0.6rem;
+    }
 
-  i {
-    color: var(--tech-cyan);
-    font-size: 0.92em;
+    li::marker {
+      color: var(--tech-blue);
+      font-size: 0.8em;
+    }
+
+    strong {
+      color: var(--tech-blue);
+      font-weight: 650;
+    }
   }
 }
 
-html[data-theme="dark"] .research-focus__item {
-  background: rgba(53, 115, 137, 0.19);
-}
-
-html[data-theme="dark"] .research-focus__title {
-  color: #cceaf4;
+.home-intro p.research-focus__heading {
+  margin: 0 0 0.55rem;
+  font-size: inherit;
+  font-weight: 650;
+  line-height: inherit;
 }
 
 .home-intro p.home-collaboration-note {
@@ -1812,10 +1809,6 @@ html[data-theme="dark"] .page__footer {
     line-height: 1.66;
   }
 
-  .research-focus {
-    grid-template-columns: 1fr;
-  }
-
   .publication__title {
     font-size: 0.92rem;
   }
@@ -1905,15 +1898,6 @@ html[data-theme="dark"] .page__footer {
   .home-eyebrow {
     font-size: 0.62rem;
     letter-spacing: 0.09em;
-  }
-
-  .research-focus__item {
-    padding: 0.66rem 0.7rem;
-  }
-
-  .research-focus__title,
-  .research-focus p {
-    font-size: 0.7rem;
   }
 
   .experience-card {

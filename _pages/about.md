@@ -13,19 +13,13 @@ I’m currently a Ph.D. student at the [School of Computer Science](https://cs.p
 
 My research focuses on **efficient data and AI systems**, spanning **vector databases**, **LLM data agent systems**, and **efficient LLM inference**. I am also interested in how latent representations can improve the efficiency of retrieval and LLM inference. My goal is to build efficient, adaptive, and reliable infrastructure for AI systems and applications.
 
-<div class="research-focus" aria-label="Research focus">
-  <article class="research-focus__item">
-    <div class="research-focus__title"><i class="fas fa-database" aria-hidden="true"></i> Vector Databases</div>
-    <p>Efficient indexing and retrieval to improve the quality and efficiency of information access.</p>
-  </article>
-  <article class="research-focus__item">
-    <div class="research-focus__title"><i class="fas fa-robot" aria-hidden="true"></i> LLM Data Agent Systems</div>
-    <p>Efficient task planning, scheduling, and execution, together with agent memory management and reuse.</p>
-  </article>
-  <article class="research-focus__item">
-    <div class="research-focus__title"><i class="fas fa-bolt" aria-hidden="true"></i> Efficient LLM Inference</div>
-    <p>Inference acceleration and performance optimization, including speculative decoding.</p>
-  </article>
+<div class="research-focus">
+  <p class="research-focus__heading" id="research-focus-heading">Research focus:</p>
+  <ul class="research-focus__list" aria-labelledby="research-focus-heading">
+    <li><strong>Vector Databases:</strong> Efficient indexing and retrieval to improve the quality and efficiency of information access.</li>
+    <li><strong>LLM Data Agent Systems:</strong> Efficient task planning, scheduling, and execution, together with agent memory management and reuse.</li>
+    <li><strong>Efficient LLM Inference:</strong> Inference acceleration and performance optimization, including speculative decoding.</li>
+  </ul>
 </div>
 
 <p class="home-collaboration-note">Please feel free to <a href="mailto:lijunlin2021@ruc.edu.cn">reach out</a> for academic discussions or potential collaborations.</p>
