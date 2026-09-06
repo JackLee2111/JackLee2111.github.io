@@ -1716,6 +1716,15 @@ html[data-theme="dark"] {
     padding: 0;
     line-height: 1.2;
   }
+
+  > li.author__link > span,
+  > li.author__link > a > span {
+    font-family: "Avenir Next", Avenir, "Segoe UI", "Helvetica Neue", sans-serif;
+    font-size: inherit;
+    font-style: italic;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+  }
 }
 
 @include breakpoint($large) {
