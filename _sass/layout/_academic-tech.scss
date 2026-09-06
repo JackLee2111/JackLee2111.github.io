@@ -292,10 +292,10 @@ html[data-theme="dark"] .home-intro {
 
 .research-focus {
   position: relative;
-  margin: 0.3rem 0 1.05rem;
+  margin: 0.25rem 0 0.8rem;
   color: var(--tech-ink);
-  font-size: 1rem;
-  line-height: 1.65;
+  font-size: 0.94em;
+  line-height: 1.6;
   z-index: 1;
 
   &__list {
@@ -311,7 +311,7 @@ html[data-theme="dark"] .home-intro {
     }
 
     li + li {
-      margin-top: 0.6rem;
+      margin-top: 0.35rem;
     }
 
     li::marker {
@@ -321,15 +321,15 @@ html[data-theme="dark"] .home-intro {
 
     strong {
       color: var(--tech-blue);
-      font-weight: 650;
+      font-weight: 600;
     }
   }
 }
 
 .home-intro p.research-focus__heading {
-  margin: 0 0 0.55rem;
+  margin: 0 0 0.4rem;
   font-size: inherit;
-  font-weight: 650;
+  font-weight: 600;
   line-height: inherit;
 }
 
