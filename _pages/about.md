@@ -35,10 +35,10 @@ My research focuses on **efficient data and AI systems**, spanning **vector data
     </div>
     <div class="experience-card__body">
       <div class="experience-card__header">
-        <h3>ByteDance <span>· Data</span></h3>
+        <h3>Research Intern <span>@ ByteDance</span></h3>
         <time>Jul 2026 – Present</time>
       </div>
-      <p class="experience-card__role">Research Intern</p>
+      <p class="experience-card__role">ByteDance · Data</p>
       <ul class="experience-card__topics">
         <li>Large-scale LLM data agent systems</li>
         <li>Semantic query for unstructured data</li>
@@ -51,10 +51,10 @@ My research focuses on **efficient data and AI systems**, spanning **vector data
     </div>
     <div class="experience-card__body">
       <div class="experience-card__header">
-        <h3>Tencent <span>· Hunyuan</span></h3>
+        <h3>Research Intern <span>@ Tencent</span></h3>
         <time>Nov 2025 – Jul 2026</time>
       </div>
-      <p class="experience-card__role">Research Intern</p>
+      <p class="experience-card__role">Tencent · Hunyuan</p>
       <ul class="experience-card__topics">
         <li>AI Search</li>
         <li>Embedding models and representation learning</li>

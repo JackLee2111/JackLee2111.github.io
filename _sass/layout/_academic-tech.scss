@@ -1619,7 +1619,7 @@ html[data-theme="dark"] {
   li,
   a {
     gap: 0.38rem;
-    font-size: 0.7rem;
+    font-size: 0.68rem;
     line-height: 1.25;
   }
 
@@ -1654,7 +1654,7 @@ html[data-theme="dark"] {
     a {
       gap: 0.24rem;
       color: var(--tech-muted);
-      font-size: 0.68rem;
+      font-size: 0.65rem;
       font-weight: 500;
       letter-spacing: 0.015em;
       line-height: 1.2;
@@ -1707,6 +1707,8 @@ html[data-theme="dark"] {
     margin: 0 !important;
     padding: 0 !important;
     line-height: 1 !important;
+    font-weight: 900;
+    -webkit-text-stroke: 0.08px currentColor;
   }
 
   > li > span,
