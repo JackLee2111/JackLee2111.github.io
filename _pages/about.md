@@ -9,15 +9,23 @@ redirect_from:
 
 <div class="home-intro" markdown="1">
 
-I'm currently a Ph.D. student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my bachelor's degree from the [School of Information](http://info.ruc.edu.cn/index.htm), [Renmin University of China](https://en.ruc.edu.cn/) in 2025.
+I’m currently a Ph.D. student at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), honorably under the supervision of Prof. [Yinjun Wu](https://wuyinjun-1993.github.io/). Before that, I obtained my bachelor’s degree from the [School of Information](http://info.ruc.edu.cn/index.htm), [Renmin University of China](https://en.ruc.edu.cn/) in 2025.
 
-My research lies at the intersection of data systems and artificial intelligence, spanning both **Data for AI (Data4AI)** and **AI for Systems (AI4Sys)**. I am particularly interested in **vector databases and retrieval**, **semantic query**, **representation learning in latent spaces**, and **agent memory**, with the goal of building efficient, adaptive, and reliable data infrastructure for AI systems and applications.
+My research focuses on **efficient data and AI systems**, spanning **vector databases**, **LLM data agent systems**, and **efficient LLM inference**. I am also interested in how latent representations can improve the efficiency of retrieval and LLM inference. My goal is to build efficient, adaptive, and reliable infrastructure for AI systems and applications.
 
 <div class="research-focus" aria-label="Research focus">
-  <span><i class="fas fa-database" aria-hidden="true"></i> Vector Databases & Retrieval</span>
-  <span><i class="fas fa-magnifying-glass" aria-hidden="true"></i> Semantic Query</span>
-  <span><i class="fas fa-layer-group" aria-hidden="true"></i> Representation Learning / Latent-Space Learning</span>
-  <span><i class="fas fa-brain" aria-hidden="true"></i> Agent Memory</span>
+  <article class="research-focus__item">
+    <div class="research-focus__title"><i class="fas fa-database" aria-hidden="true"></i> Vector Databases</div>
+    <p>Efficient indexing and retrieval to improve the quality and efficiency of information access.</p>
+  </article>
+  <article class="research-focus__item">
+    <div class="research-focus__title"><i class="fas fa-robot" aria-hidden="true"></i> LLM Data Agent Systems</div>
+    <p>Efficient task planning, scheduling, and execution, together with agent memory management and reuse.</p>
+  </article>
+  <article class="research-focus__item">
+    <div class="research-focus__title"><i class="fas fa-bolt" aria-hidden="true"></i> Efficient LLM Inference</div>
+    <p>Inference acceleration and performance optimization, including speculative decoding.</p>
+  </article>
 </div>
 
 <p class="home-collaboration-note">Please feel free to <a href="mailto:lijunlin2021@ruc.edu.cn">reach out</a> for academic discussions or potential collaborations.</p>
