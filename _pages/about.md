@@ -41,7 +41,6 @@ My research lies at the intersection of data systems and artificial intelligence
         <time>Jul 2026 – Present</time>
       </div>
       <p class="experience-card__role">Research Intern</p>
-      <p class="experience-card__meta">Beijing, China <span aria-hidden="true">·</span> On-site</p>
       <ul class="experience-card__topics">
         <li>Large-scale LLM data agent systems</li>
         <li>Semantic query for unstructured data</li>
@@ -58,9 +57,8 @@ My research lies at the intersection of data systems and artificial intelligence
         <time>Nov 2025 – Jul 2026</time>
       </div>
       <p class="experience-card__role">Research Intern</p>
-      <p class="experience-card__meta">Beijing, China <span aria-hidden="true">·</span> On-site</p>
       <ul class="experience-card__topics">
-        <li>Yuanbao AI Search</li>
+        <li>AI Search</li>
         <li>Embedding models and representation learning</li>
         <li>Agentic search for LLMs</li>
       </ul>
