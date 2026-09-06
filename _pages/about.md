@@ -32,10 +32,6 @@ My research focuses on **efficient data and AI systems**, spanning **vector data
 
 </div>
 
-## Publications
-
-{% include publication-list.html %}
-
 ## Experience
 
 <div class="experience-list">
@@ -73,6 +69,10 @@ My research focuses on **efficient data and AI systems**, spanning **vector data
     </div>
   </article>
 </div>
+
+## Publications
+
+{% include publication-list.html %}
 
 ## Awards
 
